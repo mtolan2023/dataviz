@@ -9,7 +9,7 @@ d3.json(queryUrl).then(function (data) {
 
   // 1.
   // Pass the features to a createFeatures() function:
-  createFeatures();
+  createFeatures(data.features);
 
 });
 
@@ -18,9 +18,15 @@ function createFeatures(earthquakeData) {
 
   // YOUR CODE GOES HERE
   // Save the earthquake data in a variable.
+  function onEachFeature(feature, layer) {
+    layer.bindPopup(`<h3>${feature.properties.place}</h3><hr><p>${new Date(feature.properties.time)}</p>`)
+  }
 
+  let earthquakes = L.geoJSON(earthquakeData, {
+    onEachFeature: onEachFeature
+  })
   // Pass the earthquake data to a createMap() function.
-  createMap();
+  createMap(earthquakes);
 
 }
 
@@ -46,6 +52,9 @@ function createMap(earthquakes) {
 
   // Create an overlays object.
   // YOUR CODE GOES HERE
+  let overlayMaps = {
+    Earthquakes: earthquakes
+  };
 
   // Create a new map.
   // Edit the code to add the earthquake data to the layers.
@@ -54,12 +63,12 @@ function createMap(earthquakes) {
       37.09, -95.71
     ],
     zoom: 5,
-    layers: [street]
+    layers: [street, earthquakes]
   });
 
   // Create a layer control that contains our baseMaps.
   // Be sure to add an overlay Layer that contains the earthquake GeoJSON.
-  L.control.layers(baseMaps, {
+  L.control.layers(baseMaps, overlayMaps, {
     collapsed: false
   }).addTo(myMap);
 
