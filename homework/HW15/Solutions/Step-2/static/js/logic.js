@@ -1,6 +1,8 @@
 console.log("Step 2 working");
 
-
+let sw = L.latLng(-90, -180),
+    ne = L.latLng(90, 180),
+    bounds = L.latLngBounds(sw,ne);
 // We create the tile layer that will be the background of our map.
 let basemap = L.tileLayer(
   "https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png'",
@@ -15,6 +17,8 @@ let map = L.map("map", {
     40.7, -94.5
   ],
   zoom: 3,
+  maxBounds: bounds,
+  maxBoundsViscosity: 1.0
 });
 
 // Adding our 'basemap' tile layer to the map.
