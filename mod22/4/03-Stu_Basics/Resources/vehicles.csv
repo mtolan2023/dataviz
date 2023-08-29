@@ -1,0 +1,1451 @@
+,id,region,price,year,manufacturer,model,condition,fuel,odometer,title_status,paint_color
+0,7395871032,Georgetown,22076,2022,Honda,CRV,excellent,gas,103900,clean,white
+1,7267373356,North Joshua,28964,2018,BMW,X1,used,gas,151734,clean,custom
+2,7326200681,Stevenbury,22183,2019,Toyota,Tundra,excellent,gas,143496,clean,black
+3,7379846196,Charlottehaven,20112,2023,Nissan,Maxima,excellent,gas,80296,clean,blue
+4,7236465282,Matthewland,39745,2018,Genesis,G70,fair,gas,34242,clean,black
+5,7252818630,Briannaport,27036,2021,Cadillac,CT6,fair,gas,20872,clean,red
+6,7270952582,New Kimberlytown,37654,2020,Honda,CRV,excellent,gas,6616,clean,silver
+7,7231408595,Jamesmouth,36378,2021,Nissan,Maxima,excellent,gas,110193,clean,white
+8,7211364781,West Todd,35808,2019,BMW,X1,excellent,gas,155401,clean,red
+9,7286158528,Lake Rodney,18938,2019,Audi,A3,excellent,gas,20529,clean,blue
+10,7236460262,South Ian,12839,2020,Ford,Ranger,used,gas,35010,clean,silver
+11,7260442732,South Kimberly,11466,2021,BMW,X5,good,gas,10954,clean,green
+12,7209867560,Stephenmouth,22783,2020,Ford,F150,like new,gas,15251,clean,custom
+13,7270134045,Blankenshipport,30747,2022,BMW,330i,fair,gas,124577,clean,silver
+14,7233506584,Michaelport,38083,2020,Ford,Ranger,used,gas,80458,clean,green
+15,7362325605,Elizabethland,6008,2020,Honda,CRV,excellent,gas,82004,clean,blue
+16,7345201902,Sheriborough,26968,2023,Honda,CRV,excellent,gas,88751,clean,green
+17,7362079722,Shawnchester,38020,2020,Chevrolet,Sonic,good,gas,43951,clean,black
+18,7397841367,Rachelville,18246,2022,Ford,Ranger,used,gas,46005,clean,white
+19,7258327492,Brandyview,27455,2021,Ford,F250,excellent,gas,36292,clean,silver
+20,7291030986,North Carrie,15561,2023,BMW,330i,excellent,gas,45930,clean,red
+21,7316313096,Monicamouth,38431,2018,Ford,F150,excellent,gas,32920,clean,black
+22,7244011624,Port Michelle,39633,2020,Genesis,G70,used,gas,115261,clean,custom
+23,7224772625,Kevinchester,15810,2021,Ford,Ranger,excellent,gas,137994,clean,blue
+24,7213976316,Brownmouth,17852,2019,Chevrolet,Sonic,used,gas,152549,clean,white
+25,7302711102,New Geraldton,7279,2021,Ford,F150,excellent,gas,30533,clean,white
+26,7386335117,Sanchezfort,26336,2022,Chevrolet,Sonic,excellent,gas,68792,clean,blue
+27,7393329480,Maryview,4782,2018,Ford,Ranger,excellent,gas,53490,clean,red
+28,7276739313,Sanchezborough,35271,2020,Ford,Ranger,fair,gas,19330,clean,white
+29,7297863727,East Lesliehaven,6427,2019,Honda,CRV,good,gas,10945,clean,custom
+30,7358577089,Lake Michellebury,12989,2019,Chevrolet,Sonic,excellent,gas,104904,clean,custom
+31,7355458336,Holtshire,4273,2023,Audi,A3,excellent,gas,112772,clean,white
+32,7218778735,South Paulfurt,10920,2019,Ram,1500,excellent,gas,6639,clean,green
+33,7218258647,Watsonstad,34215,2023,BMW,330i,used,gas,138450,clean,green
+34,7267569354,Wellsview,31444,2023,BMW,X3,excellent,gas,30468,clean,red
+35,7300572153,South Keith,7759,2023,Audi,A3,like new,gas,163808,clean,white
+36,7251541323,New Claudia,7844,2023,Chevrolet,Sonic,excellent,gas,135296,clean,green
+37,7271819492,South Kenneth,3780,2023,Honda,CRV,excellent,gas,135407,clean,silver
+38,7225007970,East Michael,38898,2020,BMW,X5,excellent,gas,110347,clean,red
+39,7383969577,Mooreberg,27406,2021,Cadillac,CT6,good,gas,140570,clean,red
+40,7235744452,Hollyfort,37152,2020,BMW,X5,like new,gas,82543,clean,blue
+41,7254315055,West Marissa,15745,2021,BMW,X1,used,gas,80373,clean,red
+42,7205729278,North Scott,3217,2020,BMW,330i,like new,gas,63624,clean,white
+43,7267518527,Leonview,16020,2022,BMW,330i,used,gas,66119,clean,blue
+44,7327573915,Connieberg,34659,2020,Toyota,Tundra,excellent,gas,37499,clean,custom
+45,7323169453,West David,32775,2018,BMW,X4,excellent,gas,24984,clean,blue
+46,7205516712,East Jamesborough,21954,2019,BMW,X1,fair,gas,124262,clean,red
+47,7278391586,South Joview,5000,2018,BMW,X3,excellent,gas,127193,clean,silver
+48,7209707773,New Jesse,3669,2023,Nissan,Maxima,used,gas,18466,clean,black
+49,7357263573,Rachelview,29809,2018,BMW,X1,good,gas,140052,clean,white
+50,7326357664,Perryhaven,16619,2019,Toyota,Tundra,like new,gas,100083,clean,custom
+51,7281823498,North Jenniferland,18170,2023,Ford,F150,excellent,gas,64822,clean,blue
+52,7285405809,East Steven,21682,2019,BMW,X3,fair,gas,160225,clean,custom
+53,7200095994,Hunterburgh,12510,2022,Genesis,G70,fair,gas,94052,clean,red
+54,7345323724,Rossborough,16512,2019,BMW,X4,excellent,gas,74439,clean,white
+55,7380564243,North Adamton,11538,2021,Genesis,G70,excellent,gas,43330,clean,custom
+56,7367450237,Blakeburgh,31618,2020,BMW,330i,good,gas,98842,clean,red
+57,7304043270,Katherineport,5144,2021,Audi,A3,excellent,gas,143123,clean,green
+58,7223487890,Cervantesstad,13134,2021,Ford,F150,like new,gas,94055,clean,custom
+59,7319794701,Port Hannah,38299,2021,Genesis,G70,excellent,gas,161400,clean,silver
+60,7307407632,West Jennifer,29315,2023,BMW,X3,excellent,gas,103235,clean,custom
+61,7263965558,New Carmenberg,9590,2018,Honda,CRV,excellent,gas,69948,clean,red
+62,7201890520,West Lisa,8002,2023,BMW,X3,fair,gas,159403,clean,custom
+63,7258760900,Port Lisa,16293,2019,Cadillac,CT6,excellent,gas,68098,clean,white
+64,7331008360,Kathleenberg,20864,2018,Ford,Ranger,excellent,gas,27578,clean,blue
+65,7233868590,Davidbury,33997,2021,Ford,Ranger,used,gas,150930,clean,black
+66,7236966879,East Ericville,28877,2020,BMW,330i,excellent,gas,77268,clean,white
+67,7240462196,Richardport,24655,2022,Ford,F250,excellent,gas,60395,clean,green
+68,7205709852,Lake Ryanbury,10392,2018,Audi,A3,excellent,gas,156113,clean,white
+69,7285905670,Pearsonton,28325,2022,BMW,X4,like new,gas,62310,clean,green
+70,7377600999,New Ianmouth,5840,2023,BMW,X5,excellent,gas,71860,clean,green
+71,7267236995,South Ryanburgh,9379,2023,BMW,X1,like new,gas,150133,clean,red
+72,7383317486,Martinezfurt,32190,2023,Cadillac,CT6,excellent,gas,152267,clean,custom
+73,7359501781,Lyonston,15655,2022,Audi,A3,good,gas,25380,clean,white
+74,7288329461,South Wendychester,31433,2019,Honda,CRV,excellent,gas,144265,clean,red
+75,7362980089,Melindaland,21704,2022,Ford,F150,used,gas,67065,clean,silver
+76,7226257300,Finleymouth,33120,2018,Toyota,Tundra,good,gas,162769,clean,silver
+77,7382316861,Jamesland,38583,2023,Chevrolet,Sonic,excellent,gas,135340,clean,red
+78,7369894915,Port Destiny,4998,2022,Nissan,Maxima,excellent,gas,54795,clean,green
+79,7302604868,Angelabury,15143,2018,Ford,F150,excellent,gas,38830,clean,silver
+80,7206200648,West Traceyfort,28881,2023,BMW,X4,excellent,gas,17359,clean,red
+81,7382357686,Brandonshire,8027,2021,BMW,X1,used,gas,134640,clean,red
+82,7380695061,Davidchester,7855,2019,BMW,X3,used,gas,57406,clean,white
+83,7354036529,Cynthiatown,33696,2020,Genesis,G70,good,gas,118587,clean,blue
+84,7310020786,Lake Brittneytown,10966,2023,BMW,X4,fair,gas,172414,clean,white
+85,7310970323,Port Ryanstad,9128,2023,Nissan,Maxima,excellent,gas,156015,clean,blue
+86,7352355632,Wandastad,39046,2019,BMW,X1,excellent,gas,118682,clean,white
+87,7209978168,Port Mary,27702,2020,Nissan,Maxima,excellent,gas,59331,clean,white
+88,7296356779,Katherinestad,7924,2021,Audi,A3,excellent,gas,48382,clean,green
+89,7261097298,East James,4230,2019,BMW,X4,used,gas,173233,clean,custom
+90,7369474594,East Erictown,10802,2018,BMW,330i,fair,gas,174327,clean,red
+91,7390868763,New Whitneystad,7047,2018,Toyota,Tundra,excellent,gas,167864,clean,blue
+92,7257100127,East Gloria,32724,2019,Audi,A3,excellent,gas,38686,clean,green
+93,7334675896,New Matthew,24734,2023,Ford,F150,excellent,gas,157884,clean,custom
+94,7340861396,East Carol,33188,2019,Ford,F150,excellent,gas,101233,clean,silver
+95,7381804152,Port Bryan,32305,2018,Genesis,G70,used,gas,154722,clean,custom
+96,7227975068,New Keithville,8239,2020,Toyota,Tundra,excellent,gas,167054,clean,custom
+97,7384900424,West Christine,8848,2022,BMW,X5,used,gas,108225,clean,black
+98,7382740319,South Jessicaborough,31709,2021,Nissan,Maxima,fair,gas,172774,clean,green
+99,7390417499,Port Sherri,38741,2019,Ford,Ranger,excellent,gas,79541,clean,black
+100,7285056333,East Samantha,39011,2021,Chevrolet,Sonic,fair,gas,11627,clean,white
+101,7224898725,North Jakeberg,33167,2020,Audi,A3,good,gas,12936,clean,custom
+102,7371027732,Greeneside,32476,2023,BMW,X5,excellent,gas,18436,clean,custom
+103,7254533933,Murrayburgh,37275,2022,Audi,A3,fair,gas,13543,clean,green
+104,7277998895,Port Gregoryland,25530,2022,Audi,A3,excellent,gas,86525,clean,black
+105,7268935943,Jameshaven,17882,2020,Ford,Ranger,excellent,gas,29274,clean,silver
+106,7249814308,Michaelstad,3978,2021,BMW,330i,good,gas,85994,clean,white
+107,7226728305,Jillburgh,17728,2019,BMW,X5,excellent,gas,5315,clean,white
+108,7385137507,Patrickside,15411,2023,Genesis,G70,excellent,gas,33485,clean,red
+109,7238411107,Carrieborough,13139,2020,Ram,1500,excellent,gas,44165,clean,white
+110,7292305980,Aaronfort,37985,2020,BMW,X4,used,gas,90415,clean,white
+111,7310222708,South Richard,35712,2020,Genesis,G70,good,gas,125888,clean,silver
+112,7363513391,Schneidermouth,17210,2020,Toyota,Tundra,excellent,gas,73553,clean,black
+113,7312840687,North Michael,19755,2020,Cadillac,CT6,good,gas,5841,clean,red
+114,7315972976,North Carlborough,13530,2020,BMW,X3,excellent,gas,148732,clean,red
+115,7378586124,Lake Leeborough,38252,2023,Chevrolet,Sonic,fair,gas,149237,clean,red
+116,7221051389,Leemouth,8567,2023,BMW,X3,excellent,gas,58851,clean,blue
+117,7331407114,Lopezmouth,32091,2020,BMW,X3,fair,gas,135249,clean,blue
+118,7277895153,Alexanderton,24684,2019,Ram,1500,used,gas,126801,clean,green
+119,7336423989,North Michaelhaven,4172,2022,Ford,F250,fair,gas,5105,clean,white
+120,7278126513,Hudsonhaven,22424,2022,Genesis,G70,excellent,gas,124484,clean,green
+121,7205781995,Andrewshire,29723,2023,BMW,X5,like new,gas,114318,clean,silver
+122,7285102575,Robertsonton,17062,2019,BMW,X3,fair,gas,53751,clean,silver
+123,7273195646,Floydland,18889,2020,Ford,F250,good,gas,147374,clean,green
+124,7359522703,West Kevinfurt,12505,2021,Audi,A3,fair,gas,47673,clean,red
+125,7361679718,Debraton,32595,2021,Honda,CRV,excellent,gas,74882,clean,red
+126,7350077190,Port Davidbury,19608,2020,Ram,1500,good,gas,121824,clean,white
+127,7380720286,New Joshuaview,35176,2023,Ram,1500,excellent,gas,96019,clean,silver
+128,7354760741,Farrelltown,7784,2022,BMW,X5,excellent,gas,165634,clean,custom
+129,7337652003,Susanmouth,37325,2019,Ford,Ranger,fair,gas,113108,clean,green
+130,7280175971,North Beverly,37830,2019,BMW,X1,like new,gas,38097,clean,green
+131,7202503406,Mistybury,29305,2020,Ford,Ranger,excellent,gas,168300,clean,white
+132,7215771413,Meagantown,20722,2023,BMW,X3,excellent,gas,153580,clean,black
+133,7258059366,New Mathewfort,10205,2018,BMW,X5,excellent,gas,75366,clean,custom
+134,7229379891,Amyview,28817,2019,Nissan,Maxima,excellent,gas,99750,clean,black
+135,7335791143,West Angela,21823,2022,Genesis,G70,good,gas,23850,clean,red
+136,7304139119,New Brian,39285,2019,BMW,X3,fair,gas,26132,clean,blue
+137,7204063267,Elizabethton,19683,2021,BMW,330i,excellent,gas,12659,clean,silver
+138,7372310874,Robertshire,25126,2019,Ram,1500,fair,gas,78932,clean,silver
+139,7257937001,East Nathan,22591,2018,BMW,X5,excellent,gas,18018,clean,black
+140,7367950829,Michaelberg,31411,2022,Nissan,Maxima,excellent,gas,170728,clean,blue
+141,7357939149,Michelleton,37458,2019,BMW,X1,fair,gas,151669,clean,black
+142,7212851521,Martinezberg,5220,2021,Ram,1500,excellent,gas,135193,clean,green
+143,7370371421,Andreashire,7555,2019,Ram,1500,fair,gas,38447,clean,white
+144,7369999967,Diazfort,26614,2018,Toyota,Tundra,fair,gas,72163,clean,custom
+145,7271829953,Fieldsburgh,28594,2019,BMW,X1,used,gas,65050,clean,silver
+146,7271039210,North Lee,31945,2019,Honda,CRV,excellent,gas,7860,clean,white
+147,7280912100,New Katrina,3817,2018,Cadillac,CT6,excellent,gas,5399,clean,silver
+148,7269281815,Rodriguezhaven,13356,2019,Genesis,G70,excellent,gas,96262,clean,blue
+149,7368098617,North Danielton,32086,2018,Genesis,G70,excellent,gas,11936,clean,white
+150,7392977303,Austinmouth,7906,2019,Ford,Ranger,like new,gas,25613,clean,white
+151,7289319859,West Davidmouth,8950,2020,Genesis,G70,fair,gas,25924,clean,green
+152,7355065852,North James,4594,2019,BMW,X4,used,gas,40488,clean,silver
+153,7338569812,Charlesmouth,31856,2020,Nissan,Maxima,used,gas,15660,clean,black
+154,7377170860,West Anastad,23059,2018,Honda,CRV,excellent,gas,13037,clean,red
+155,7341361090,West Angelamouth,26356,2021,Honda,CRV,good,gas,71328,clean,white
+156,7328376890,Timothyville,29571,2022,BMW,X5,excellent,gas,153584,clean,green
+157,7269194788,Port Melanie,15897,2019,Ford,Ranger,good,gas,31172,clean,green
+158,7252587089,South Nicholas,5763,2021,Ford,Ranger,excellent,gas,96034,clean,white
+159,7255039976,New Jeremiahland,30286,2021,BMW,X5,good,gas,89603,clean,green
+160,7275466469,Reyesport,3789,2018,Audi,A3,good,gas,49227,clean,red
+161,7217549154,Kathryntown,7498,2018,BMW,X4,used,gas,159713,clean,silver
+162,7383067102,Kristinchester,3127,2019,Cadillac,CT6,excellent,gas,149082,clean,green
+163,7317422886,Villarrealborough,17270,2018,Ram,1500,excellent,gas,109542,clean,red
+164,7284338806,Amandaberg,17543,2020,Cadillac,CT6,fair,gas,80570,clean,red
+165,7253772355,New Matthew,24487,2019,Ford,F250,excellent,gas,45559,clean,black
+166,7369412624,East Krystal,10567,2020,Toyota,Tundra,excellent,gas,18999,clean,black
+167,7336117589,East Rebecca,20515,2021,Ram,1500,good,gas,158477,clean,silver
+168,7345092394,Jamiechester,32682,2018,Genesis,G70,excellent,gas,14762,clean,black
+169,7245434624,North Janestad,25283,2023,Genesis,G70,excellent,gas,122242,clean,red
+170,7259943551,Wilsonport,34551,2019,Cadillac,CT6,fair,gas,40509,clean,silver
+171,7389233046,Morrowfurt,12776,2022,BMW,X5,used,gas,90812,clean,red
+172,7372008413,Mathewhaven,24758,2019,Ram,1500,excellent,gas,153289,clean,white
+173,7239322167,Juliefurt,18554,2023,Audi,A3,excellent,gas,83500,clean,black
+174,7288300759,Ericland,4679,2022,Chevrolet,Sonic,excellent,gas,49164,clean,black
+175,7307057177,Riosberg,11993,2023,Audi,A3,excellent,gas,141000,clean,red
+176,7362823079,Johnport,7796,2023,Chevrolet,Sonic,excellent,gas,130501,clean,green
+177,7323512469,Lake Jeremiahton,37152,2018,Ford,F150,excellent,gas,42370,clean,green
+178,7251132759,Weisston,35295,2019,Audi,A3,used,gas,140875,clean,blue
+179,7396628299,East Jeremy,13203,2018,Ford,F250,excellent,gas,63065,clean,black
+180,7307242099,North Daniel,4318,2020,Ford,Ranger,good,gas,30100,clean,custom
+181,7353001512,Mosleyville,17495,2023,Ford,F250,good,gas,58494,clean,red
+182,7324438799,West Angelland,22558,2022,BMW,X1,excellent,gas,122652,clean,green
+183,7287527276,West Miguel,9742,2023,Cadillac,CT6,excellent,gas,28886,clean,red
+184,7343142894,North John,9717,2020,Cadillac,CT6,excellent,gas,22198,clean,green
+185,7228256977,North Heather,37683,2023,Chevrolet,Sonic,used,gas,117817,clean,white
+186,7396934142,Thompsonview,26503,2020,BMW,330i,like new,gas,155922,clean,white
+187,7398620811,Lake Michaelchester,26995,2023,Genesis,G70,excellent,gas,149276,clean,custom
+188,7351101198,Mcclurestad,25891,2023,BMW,X5,used,gas,92532,clean,white
+189,7344100024,Hughesfurt,12536,2021,Audi,A3,excellent,gas,113838,clean,white
+190,7289361926,Salazarfurt,4206,2020,Ford,F150,excellent,gas,110035,clean,blue
+191,7307468064,West David,22379,2022,Ford,F150,excellent,gas,137836,clean,blue
+192,7381078549,Crystalbury,29114,2018,BMW,X3,used,gas,166517,clean,black
+193,7239370080,Samanthamouth,36014,2020,Cadillac,CT6,like new,gas,55148,clean,green
+194,7236296920,East Katrinaland,23359,2018,Ford,F250,excellent,gas,114773,clean,blue
+195,7317717990,Timothyberg,35740,2023,Chevrolet,Sonic,excellent,gas,52521,clean,black
+196,7262066497,Sarastad,7833,2023,BMW,X4,used,gas,36706,clean,red
+197,7258015483,Rowemouth,14735,2021,BMW,X1,used,gas,133016,clean,silver
+198,7397375260,North Kristina,3640,2018,Toyota,Tundra,excellent,gas,89706,clean,red
+199,7332345936,West John,27709,2022,BMW,X5,excellent,gas,164329,clean,green
+200,7246845844,Garciahaven,17183,2019,Ram,1500,good,gas,127680,clean,green
+201,7330254767,East Paulshire,35162,2018,Audi,A3,excellent,gas,174994,clean,black
+202,7205752512,East Christinehaven,33636,2020,Genesis,G70,excellent,gas,128399,clean,green
+203,7271803945,Justinburgh,37374,2018,Ford,Ranger,like new,gas,62154,clean,red
+204,7283287155,Wrightfurt,19705,2020,Genesis,G70,excellent,gas,62639,clean,custom
+205,7343350269,Moralesmouth,38040,2018,Audi,A3,used,gas,41055,clean,silver
+206,7213422947,Carterborough,17516,2019,BMW,X5,excellent,gas,57735,clean,red
+207,7258894495,North Rickyshire,15964,2023,Nissan,Maxima,like new,gas,33628,clean,silver
+208,7287764647,Ryanview,28761,2023,BMW,330i,used,gas,89487,clean,silver
+209,7323284271,South David,38592,2021,Ram,1500,excellent,gas,83342,clean,silver
+210,7238685115,East Sydney,36208,2022,BMW,330i,excellent,gas,57190,clean,red
+211,7206915310,Watsonton,15095,2019,Ford,F150,excellent,gas,9719,clean,custom
+212,7257599742,New Amyview,32512,2018,Audi,A3,fair,gas,79956,clean,silver
+213,7240088474,Jodibury,27261,2019,BMW,X3,good,gas,12058,clean,black
+214,7378051325,New Ryanborough,12197,2020,BMW,X4,excellent,gas,8971,clean,red
+215,7237272921,Port Bonnieport,12582,2020,BMW,X3,fair,gas,170580,clean,green
+216,7339676825,West Marybury,7384,2018,BMW,X3,excellent,gas,115856,clean,green
+217,7317835035,Beanhaven,36374,2023,Ford,F250,excellent,gas,149018,clean,black
+218,7387254710,Port Veronica,13009,2018,Chevrolet,Sonic,excellent,gas,48464,clean,white
+219,7358476208,New Kendra,12522,2019,Honda,CRV,fair,gas,5038,clean,white
+220,7378972514,West Brandi,8773,2019,Toyota,Tundra,excellent,gas,106018,clean,blue
+221,7299871201,Jamesbury,19212,2022,Audi,A3,excellent,gas,65475,clean,custom
+222,7365749805,East David,18178,2022,Genesis,G70,excellent,gas,121409,clean,black
+223,7276908459,Vincentfurt,24171,2022,Ford,F250,excellent,gas,8075,clean,green
+224,7284907022,Donnaport,35461,2020,Cadillac,CT6,fair,gas,67848,clean,red
+225,7349287241,Patriciabury,25035,2021,Honda,CRV,fair,gas,15838,clean,silver
+226,7374461200,Cookfurt,6370,2022,Ford,Ranger,used,gas,171725,clean,black
+227,7273764501,East Joanneburgh,36545,2018,BMW,X5,fair,gas,140829,clean,black
+228,7320868927,East David,17780,2022,BMW,330i,excellent,gas,20919,clean,green
+229,7268729286,East Destinyport,4732,2019,BMW,X4,fair,gas,129757,clean,custom
+230,7273548026,Jamesside,4617,2020,Chevrolet,Sonic,excellent,gas,126993,clean,silver
+231,7290079387,Schmittville,28640,2020,BMW,X3,excellent,gas,41154,clean,red
+232,7332693272,East Jeremiah,13132,2022,Cadillac,CT6,used,gas,121009,clean,red
+233,7249760658,Cannonville,17145,2018,Chevrolet,Sonic,like new,gas,156484,clean,green
+234,7350918395,Webbside,3137,2021,Genesis,G70,good,gas,167701,clean,white
+235,7367828514,New Georgestad,9863,2021,Ford,F250,excellent,gas,108341,clean,red
+236,7344714850,West Jared,28892,2023,Cadillac,CT6,fair,gas,73035,clean,white
+237,7230667038,Hectorton,9162,2021,BMW,X1,excellent,gas,29533,clean,custom
+238,7273717719,Sanchezville,31002,2020,Ford,Ranger,excellent,gas,44121,clean,green
+239,7202148795,South Robert,22117,2020,Ford,F250,excellent,gas,129663,clean,black
+240,7216423412,Vargasborough,7208,2020,Audi,A3,excellent,gas,80876,clean,green
+241,7304227403,West Tamara,28759,2020,Ford,F250,excellent,gas,70376,clean,silver
+242,7344967176,North Michael,30964,2020,BMW,330i,fair,gas,89329,clean,white
+243,7266054173,Douglasbury,4881,2019,BMW,X4,fair,gas,63973,clean,blue
+244,7215145114,Natalieton,35008,2019,Ford,F250,used,gas,121982,clean,blue
+245,7204955666,Veronicatown,36250,2018,BMW,X3,used,gas,151611,clean,red
+246,7341005454,Port Jessicaburgh,8927,2023,BMW,X3,excellent,gas,111515,clean,white
+247,7349606258,Port Justin,15268,2021,Ford,F250,like new,gas,146436,clean,green
+248,7242314512,North Abigail,34769,2022,Nissan,Maxima,excellent,gas,103309,clean,red
+249,7204795135,Cynthiaberg,30964,2018,Honda,CRV,excellent,gas,107645,clean,custom
+250,7383575711,Tamaraport,25975,2021,BMW,X5,excellent,gas,133880,clean,silver
+251,7312685095,Michellebury,22161,2022,BMW,X5,used,gas,14386,clean,red
+252,7301335532,Michaelville,14155,2018,Cadillac,CT6,excellent,gas,86887,clean,blue
+253,7245567593,Webbbury,20933,2020,Ford,F250,excellent,gas,134730,clean,silver
+254,7350964196,Cookborough,14446,2022,Honda,CRV,used,gas,78035,clean,green
+255,7209349440,East Deborahmouth,8686,2018,BMW,X3,excellent,gas,45803,clean,green
+256,7326742635,West Joanne,4210,2023,Ram,1500,excellent,gas,162744,clean,silver
+257,7225928815,Marystad,17957,2018,Genesis,G70,excellent,gas,95393,clean,black
+258,7274381954,Cookberg,18272,2022,Cadillac,CT6,excellent,gas,28915,clean,silver
+259,7351189521,East Candicechester,23585,2020,BMW,X5,excellent,gas,136689,clean,silver
+260,7324305603,South Hannahberg,31252,2019,Nissan,Maxima,good,gas,111068,clean,green
+261,7382877766,Harrisland,11503,2023,Cadillac,CT6,excellent,gas,156305,clean,black
+262,7379368115,Townsendfort,29288,2022,Ford,Ranger,excellent,gas,34116,clean,blue
+263,7295084859,South Stanley,6834,2019,Cadillac,CT6,excellent,gas,107208,clean,green
+264,7222683858,West Haileymouth,33445,2019,Genesis,G70,fair,gas,160263,clean,blue
+265,7384069114,Port Hayden,32540,2021,Genesis,G70,fair,gas,153144,clean,green
+266,7328214198,Costachester,13159,2023,BMW,330i,excellent,gas,35121,clean,custom
+267,7242023376,East Diana,7998,2019,Nissan,Maxima,used,gas,158180,clean,custom
+268,7365795370,South Craighaven,7794,2019,Nissan,Maxima,excellent,gas,24958,clean,blue
+269,7371964962,Gutierrezview,8420,2018,BMW,330i,used,gas,123072,clean,custom
+270,7397723709,Houstonberg,28131,2020,Honda,CRV,excellent,gas,110150,clean,white
+271,7344295757,North Allen,12292,2022,Ford,F250,excellent,gas,32015,clean,white
+272,7238260682,Jasminehaven,33264,2023,BMW,X5,like new,gas,50098,clean,black
+273,7260307071,Michaelton,12716,2022,BMW,X3,fair,gas,80704,clean,black
+274,7217379716,East Kevinstad,5454,2018,Ram,1500,excellent,gas,116208,clean,white
+275,7270821489,Figueroamouth,22189,2019,Ford,Ranger,excellent,gas,72211,clean,green
+276,7395880980,Lake Andreahaven,28538,2021,BMW,X5,excellent,gas,21177,clean,black
+277,7240945957,New Michellemouth,36128,2019,Ford,Ranger,used,gas,5370,clean,custom
+278,7224717513,Port Thomasburgh,15016,2023,BMW,X5,good,gas,168069,clean,black
+279,7237581804,West Tinaberg,5826,2021,BMW,X4,excellent,gas,44802,clean,blue
+280,7288826790,East Brett,5559,2022,BMW,X3,excellent,gas,35168,clean,black
+281,7346350085,Alejandramouth,24993,2022,Ford,F150,like new,gas,174198,clean,custom
+282,7205758215,West Nancy,15291,2019,Chevrolet,Sonic,excellent,gas,149611,clean,white
+283,7350872794,New Robert,32779,2018,BMW,X4,fair,gas,18788,clean,white
+284,7321902381,Smithburgh,10093,2021,Ford,Ranger,excellent,gas,134910,clean,black
+285,7324373345,New Shannon,35647,2022,Ram,1500,excellent,gas,65897,clean,white
+286,7354188444,East Jackie,28624,2023,Audi,A3,used,gas,173929,clean,blue
+287,7374248820,Lake Penny,29737,2020,Honda,CRV,excellent,gas,82062,clean,silver
+288,7225566402,Katherineport,24446,2023,BMW,330i,excellent,gas,145967,clean,blue
+289,7208395176,South Frankmouth,31680,2020,Ford,Ranger,excellent,gas,87628,clean,green
+290,7357631291,New Ashleychester,37356,2021,BMW,X3,fair,gas,160020,clean,white
+291,7323930473,Karabury,22128,2022,Genesis,G70,excellent,gas,57690,clean,green
+292,7396679871,New Kimberlyfort,27599,2018,BMW,330i,like new,gas,18900,clean,green
+293,7394048780,Maddenberg,15795,2018,Honda,CRV,excellent,gas,173576,clean,red
+294,7349963982,Tamarashire,10417,2018,Ford,Ranger,used,gas,164342,clean,black
+295,7352705137,South Lindsey,24886,2022,Honda,CRV,fair,gas,142439,clean,custom
+296,7293126996,Maryville,32045,2022,Honda,CRV,fair,gas,51267,clean,blue
+297,7277529325,Lloydshire,5808,2020,BMW,X5,excellent,gas,72514,clean,black
+298,7281311774,South Laura,26980,2019,BMW,X5,good,gas,22497,clean,red
+299,7276728499,Ericfort,37764,2023,Ford,F150,excellent,gas,58927,clean,custom
+300,7209770539,North Raymond,37095,2019,Ram,1500,excellent,gas,124658,clean,silver
+301,7262621934,Fergusonstad,35217,2020,Ram,1500,like new,gas,100222,clean,blue
+302,7306849275,East Angelahaven,25214,2019,Genesis,G70,excellent,gas,39361,clean,blue
+303,7348995936,Warehaven,28505,2019,Ford,Ranger,excellent,gas,167472,clean,custom
+304,7338959072,Deanfort,22207,2018,Ford,F250,excellent,gas,136709,clean,red
+305,7257883375,Robertville,24752,2023,Chevrolet,Sonic,like new,gas,131382,clean,red
+306,7255111582,Arroyoberg,24988,2020,Chevrolet,Sonic,used,gas,92140,clean,black
+307,7226906299,Alexanderhaven,15022,2021,BMW,330i,like new,gas,36816,clean,blue
+308,7309176212,New Jamesview,37291,2023,Ram,1500,fair,gas,12173,clean,silver
+309,7222606030,North Michelle,15711,2022,Ram,1500,excellent,gas,161276,clean,blue
+310,7264214156,West Joshuaview,4603,2023,Genesis,G70,excellent,gas,127057,clean,custom
+311,7382721646,Royhaven,5550,2022,Honda,CRV,fair,gas,99883,clean,red
+312,7280509765,Jocelynhaven,36436,2018,Honda,CRV,fair,gas,137929,clean,red
+313,7233499900,Lake Stephentown,39892,2019,Ford,Ranger,fair,gas,9225,clean,white
+314,7301446172,Suttonborough,32361,2020,Ford,F150,excellent,gas,128946,clean,custom
+315,7304812185,South Pamstad,30773,2023,Ford,F250,excellent,gas,77959,clean,blue
+316,7356318597,South Rodney,23169,2018,Toyota,Tundra,fair,gas,150737,clean,white
+317,7298473175,Joshualand,14165,2018,Chevrolet,Sonic,fair,gas,13680,clean,silver
+318,7252772653,Morganmouth,27821,2019,BMW,X5,excellent,gas,68314,clean,blue
+319,7333905817,Mcdonaldton,3665,2020,Ford,Ranger,used,gas,173700,clean,black
+320,7331746422,East Tyler,9915,2022,Honda,CRV,used,gas,70896,clean,white
+321,7324787878,Christopherland,37971,2019,Honda,CRV,excellent,gas,158128,clean,black
+322,7349813759,Cohenborough,5556,2018,BMW,X4,used,gas,141853,clean,silver
+323,7287237233,Chenville,28064,2021,BMW,X1,used,gas,169821,clean,red
+324,7273637071,West Brian,34442,2023,Ford,F150,used,gas,17671,clean,black
+325,7219027515,East Amy,30160,2021,Ram,1500,good,gas,64604,clean,red
+326,7217513589,North Stephaniehaven,16298,2021,BMW,X1,excellent,gas,55684,clean,custom
+327,7393176596,West Heather,27897,2018,Ford,F250,excellent,gas,119716,clean,silver
+328,7392143945,Dawnville,7443,2020,Ford,F250,good,gas,143320,clean,blue
+329,7262886382,Toddbury,14248,2022,BMW,X5,good,gas,9238,clean,green
+330,7381803404,Port Martin,34537,2020,Genesis,G70,excellent,gas,110355,clean,green
+331,7227397764,Sellersshire,26835,2023,BMW,X3,fair,gas,45246,clean,red
+332,7242193359,Jamesland,11444,2022,Audi,A3,fair,gas,68486,clean,silver
+333,7364661116,East Scottland,22789,2021,Ford,F150,like new,gas,21653,clean,silver
+334,7287793847,East Richardborough,30899,2022,Ford,F150,fair,gas,164156,clean,white
+335,7274103558,North Edward,18037,2022,BMW,330i,good,gas,9390,clean,custom
+336,7362728520,Chadburgh,9897,2023,BMW,X3,used,gas,129178,clean,custom
+337,7200162135,Halltown,5740,2018,BMW,X5,excellent,gas,37354,clean,red
+338,7301703734,Leeberg,11163,2020,Audi,A3,like new,gas,43663,clean,white
+339,7200186319,Sarahview,14405,2022,Ford,Ranger,excellent,gas,56243,clean,blue
+340,7334802036,Lisahaven,5291,2018,Toyota,Tundra,excellent,gas,33700,clean,green
+341,7374284118,Lisaborough,26037,2019,Ford,Ranger,excellent,gas,21636,clean,custom
+342,7291882323,South Dianeborough,34198,2022,Toyota,Tundra,excellent,gas,24684,clean,blue
+343,7355018410,South Joseph,33284,2023,Ford,Ranger,excellent,gas,37161,clean,black
+344,7278101578,Lake Billy,35898,2021,Ford,F250,like new,gas,84402,clean,custom
+345,7266945242,Lake Jennifer,22716,2021,BMW,330i,excellent,gas,108528,clean,blue
+346,7260250232,Jenniferhaven,22460,2023,Ram,1500,excellent,gas,129368,clean,black
+347,7352749740,Johnburgh,10711,2023,BMW,X1,excellent,gas,96465,clean,green
+348,7395748840,North Kellie,5041,2019,Audi,A3,used,gas,85149,clean,red
+349,7281070274,West Jackhaven,20722,2020,BMW,X4,used,gas,165039,clean,red
+350,7348914904,Johnnytown,29849,2023,Cadillac,CT6,used,gas,57675,clean,red
+351,7207236970,North Josephfort,25126,2018,Ford,F250,excellent,gas,80999,clean,black
+352,7366889861,Moranmouth,32061,2020,BMW,X1,fair,gas,79014,clean,white
+353,7398130900,Marshallhaven,32628,2020,Ram,1500,like new,gas,14068,clean,green
+354,7222774488,Barbarahaven,6210,2022,BMW,X5,used,gas,100334,clean,white
+355,7201935651,Lake Catherineport,35679,2018,Nissan,Maxima,fair,gas,137087,clean,silver
+356,7296027082,South Brittany,11949,2022,Ford,F150,used,gas,102908,clean,custom
+357,7238201492,New Lisamouth,33118,2020,Ford,Ranger,excellent,gas,15718,clean,white
+358,7241188947,Moorehaven,21088,2019,BMW,330i,excellent,gas,29185,clean,green
+359,7361351162,West Jamesfurt,26914,2021,Cadillac,CT6,excellent,gas,41335,clean,custom
+360,7269171878,Joneschester,23883,2023,Genesis,G70,like new,gas,110035,clean,custom
+361,7374966825,Jeffreyfurt,21035,2023,Genesis,G70,excellent,gas,13667,clean,black
+362,7272817717,Hoshire,13706,2019,Ford,F250,excellent,gas,37699,clean,custom
+363,7274767767,Hayesside,32158,2019,Ford,Ranger,fair,gas,157083,clean,black
+364,7368763082,Leefurt,27872,2022,BMW,X4,fair,gas,153739,clean,white
+365,7311700094,East Justinmouth,39941,2023,BMW,X3,excellent,gas,38227,clean,green
+366,7391384747,South Petershire,25008,2020,Ram,1500,excellent,gas,20439,clean,blue
+367,7213256715,New Brenda,33696,2018,Genesis,G70,like new,gas,148314,clean,white
+368,7262056929,West Caitlinborough,7255,2019,Ram,1500,used,gas,94703,clean,white
+369,7220310437,New Jeff,3679,2020,BMW,X1,excellent,gas,79216,clean,black
+370,7346687811,East Tiffanyport,33194,2018,Ford,Ranger,like new,gas,11151,clean,red
+371,7281295296,Alyssamouth,35876,2022,Ford,Ranger,used,gas,33132,clean,green
+372,7282951405,East Michael,8449,2019,Ford,F150,fair,gas,146178,clean,red
+373,7334855441,Port Martinfort,30148,2019,Ford,F150,like new,gas,171684,clean,black
+374,7255524128,Collierside,38579,2020,Ram,1500,good,gas,104621,clean,black
+375,7393398201,Laurenfort,31154,2023,Toyota,Tundra,used,gas,59581,clean,white
+376,7274319862,Lake Paulaborough,31640,2021,Genesis,G70,excellent,gas,131525,clean,custom
+377,7227709342,Sandersview,37472,2022,Ford,Ranger,used,gas,39916,clean,blue
+378,7285667946,Mcphersonburgh,8795,2023,Cadillac,CT6,excellent,gas,147450,clean,blue
+379,7218506305,Stewarttown,10460,2021,Ford,F150,fair,gas,137190,clean,red
+380,7302460152,Kristenfort,21209,2021,Genesis,G70,like new,gas,124462,clean,green
+381,7313934068,Port Debra,31606,2020,Chevrolet,Sonic,fair,gas,84152,clean,white
+382,7341877449,East Gregorystad,9371,2018,BMW,X4,used,gas,47701,clean,silver
+383,7338316776,Lopezview,37850,2020,Cadillac,CT6,like new,gas,158626,clean,custom
+384,7333942916,North Katelyn,31843,2022,BMW,X3,fair,gas,17498,clean,black
+385,7367530402,Lake Kevinland,7323,2018,BMW,X4,excellent,gas,124107,clean,silver
+386,7398879034,Port Beverly,28376,2019,Honda,CRV,excellent,gas,136813,clean,white
+387,7343627473,South Kelsey,24712,2023,BMW,X3,fair,gas,52337,clean,green
+388,7396835960,Brittanychester,31841,2022,Toyota,Tundra,excellent,gas,143115,clean,custom
+389,7299613336,Aliceborough,17378,2020,Ford,Ranger,excellent,gas,110814,clean,red
+390,7310511449,East Curtis,39001,2022,Chevrolet,Sonic,excellent,gas,110913,clean,green
+391,7362967429,North Donnamouth,39492,2023,BMW,330i,excellent,gas,81819,clean,blue
+392,7320569798,Morastad,9762,2023,Cadillac,CT6,excellent,gas,111156,clean,red
+393,7220877611,Ryanfort,7792,2018,BMW,X3,excellent,gas,98905,clean,green
+394,7310447007,Port Peter,20944,2018,BMW,X4,like new,gas,102389,clean,white
+395,7277984418,Janicefurt,37021,2020,Nissan,Maxima,fair,gas,77594,clean,silver
+396,7338600395,Halemouth,26881,2021,Ford,Ranger,used,gas,118636,clean,blue
+397,7348183035,Ruizstad,19376,2023,Toyota,Tundra,excellent,gas,43208,clean,black
+398,7376479554,West Jennifer,10261,2021,Chevrolet,Sonic,good,gas,100495,clean,green
+399,7202243366,North Benjamin,8338,2019,BMW,X4,fair,gas,52068,clean,green
+400,7322241676,Gonzalezfort,28006,2021,Ford,F150,good,gas,56688,clean,black
+401,7367934308,Thomasside,5047,2020,Genesis,G70,fair,gas,7608,clean,silver
+402,7202904269,Lake Sarahmouth,31920,2020,BMW,X5,excellent,gas,110102,clean,blue
+403,7357614962,Port Mike,12239,2021,BMW,X4,good,gas,172256,clean,custom
+404,7326380830,Lesliechester,24264,2020,BMW,X5,fair,gas,158862,clean,black
+405,7372610947,West Troy,8714,2020,BMW,X3,excellent,gas,101088,clean,blue
+406,7225757039,South Kristie,8825,2018,Toyota,Tundra,excellent,gas,174501,clean,red
+407,7394314923,Weaverstad,31609,2020,BMW,X1,excellent,gas,129708,clean,custom
+408,7201465945,South Laura,17270,2019,BMW,X3,good,gas,155425,clean,blue
+409,7306410778,South Jessica,35118,2021,BMW,330i,excellent,gas,20492,clean,silver
+410,7347132361,New Troy,36821,2018,Ram,1500,excellent,gas,53196,clean,red
+411,7253277669,North Diamondfurt,39660,2023,Ford,F250,excellent,gas,141564,clean,black
+412,7321248043,West Jenniferview,10357,2018,Ford,Ranger,fair,gas,63725,clean,custom
+413,7308224050,Whitebury,12909,2022,Genesis,G70,excellent,gas,82930,clean,blue
+414,7305419775,Fergusonhaven,31469,2023,BMW,330i,excellent,gas,122453,clean,white
+415,7380988340,North Crystalmouth,32495,2018,Ram,1500,excellent,gas,87270,clean,black
+416,7290415976,Stanleybury,32929,2023,Honda,CRV,fair,gas,54063,clean,green
+417,7348986253,Alvarezport,33725,2023,BMW,X5,excellent,gas,171963,clean,black
+418,7352986745,West Bradleyton,23573,2022,Genesis,G70,excellent,gas,131328,clean,custom
+419,7344679318,Martinland,18238,2019,Ford,F250,used,gas,49507,clean,custom
+420,7239305830,New Tommy,3096,2019,Honda,CRV,good,gas,26243,clean,black
+421,7226145369,Lake Matthewview,26002,2020,BMW,X4,excellent,gas,83027,clean,red
+422,7309770663,Byrdfort,20526,2018,Genesis,G70,fair,gas,46295,clean,white
+423,7204971896,Harrismouth,12629,2022,BMW,X4,fair,gas,93580,clean,red
+424,7249432028,Youngburgh,16272,2020,BMW,330i,excellent,gas,20190,clean,white
+425,7200398627,Johnsonchester,28599,2020,Cadillac,CT6,excellent,gas,37910,clean,white
+426,7385146357,Port Bradleyfurt,9165,2019,BMW,X5,excellent,gas,108260,clean,white
+427,7328597001,Brownville,25116,2022,Cadillac,CT6,used,gas,56745,clean,custom
+428,7351524888,Staffordville,6995,2023,BMW,X4,like new,gas,70003,clean,black
+429,7367044965,North Megan,17154,2021,BMW,X3,fair,gas,171618,clean,custom
+430,7349072310,Justinfort,12375,2021,BMW,X4,like new,gas,10887,clean,blue
+431,7267473570,East Marcus,35825,2020,BMW,X3,like new,gas,103936,clean,blue
+432,7299496002,North Kevinfort,35889,2019,Genesis,G70,excellent,gas,9926,clean,green
+433,7243673904,Lake Samanthabury,24061,2020,BMW,330i,like new,gas,163770,clean,silver
+434,7260836643,Port April,31142,2021,BMW,X3,excellent,gas,155507,clean,black
+435,7230983698,Haasland,20095,2018,Ford,F150,excellent,gas,169240,clean,black
+436,7323568185,Port Frankview,21138,2020,Ford,Ranger,fair,gas,55827,clean,blue
+437,7237831149,Faulknerside,15318,2021,Cadillac,CT6,fair,gas,121335,clean,silver
+438,7264239514,Davidborough,33644,2023,BMW,330i,fair,gas,19311,clean,red
+439,7366516266,Villanuevaport,24058,2021,Chevrolet,Sonic,fair,gas,89444,clean,green
+440,7227697567,West Colleenchester,6933,2022,BMW,330i,excellent,gas,94010,clean,silver
+441,7237523398,Perryshire,26395,2023,Chevrolet,Sonic,like new,gas,119743,clean,blue
+442,7291380628,North Arieltown,19708,2019,Audi,A3,excellent,gas,25981,clean,red
+443,7340877886,East Kimberlyburgh,6485,2020,Genesis,G70,excellent,gas,160297,clean,custom
+444,7254524525,Kellyport,38775,2018,BMW,X3,good,gas,53910,clean,white
+445,7317682569,Vickishire,35350,2019,Toyota,Tundra,excellent,gas,169881,clean,green
+446,7278600872,Meltonmouth,21247,2019,Ram,1500,good,gas,152388,clean,custom
+447,7385887457,Courtneyborough,38729,2023,BMW,X4,excellent,gas,159022,clean,green
+448,7290267203,Port Chadborough,31831,2018,Ram,1500,excellent,gas,169336,clean,black
+449,7370772622,West William,7223,2022,Chevrolet,Sonic,like new,gas,125537,clean,red
+450,7320338108,Nancymouth,31386,2018,Ford,F150,good,gas,155272,clean,blue
+451,7241352487,Wrightmouth,20866,2023,Honda,CRV,excellent,gas,47269,clean,red
+452,7350359498,Port Ashley,25862,2023,BMW,X3,excellent,gas,127993,clean,red
+453,7313736021,West Normaburgh,15085,2022,Ford,F250,excellent,gas,121198,clean,custom
+454,7356586683,East Darren,29123,2018,BMW,330i,excellent,gas,159377,clean,black
+455,7377456953,East Steven,21779,2020,BMW,X1,excellent,gas,76498,clean,red
+456,7352449595,Wheelerland,25147,2019,Ford,F150,excellent,gas,118062,clean,custom
+457,7208182866,New Tiffany,4470,2023,Ram,1500,fair,gas,109243,clean,black
+458,7225193452,North Ryan,15783,2020,Honda,CRV,excellent,gas,9998,clean,black
+459,7383546554,Rachelhaven,36836,2023,BMW,X4,excellent,gas,57076,clean,silver
+460,7314846146,East Harold,35071,2022,Nissan,Maxima,like new,gas,43335,clean,silver
+461,7385943632,New Andrewborough,15951,2022,BMW,X5,like new,gas,10257,clean,blue
+462,7272709898,Andrewshire,4523,2018,Ford,F250,excellent,gas,131468,clean,white
+463,7354185827,Bruceville,28113,2023,Toyota,Tundra,fair,gas,174275,clean,silver
+464,7327518953,Lake Jasonstad,38706,2023,Toyota,Tundra,good,gas,99602,clean,silver
+465,7392726377,Lake Nicholastown,8648,2021,Genesis,G70,excellent,gas,107539,clean,black
+466,7268257451,Carlosmouth,31545,2020,BMW,330i,excellent,gas,97650,clean,blue
+467,7341979197,Ortegaport,27396,2023,BMW,X5,excellent,gas,89591,clean,custom
+468,7390942047,Ponceside,37481,2021,Chevrolet,Sonic,used,gas,93935,clean,black
+469,7298887219,Rebeccamouth,5578,2023,Chevrolet,Sonic,like new,gas,142377,clean,white
+470,7363717209,East Taylor,16242,2021,BMW,X3,good,gas,61765,clean,green
+471,7302388272,Tylerfurt,17886,2022,BMW,330i,used,gas,164420,clean,green
+472,7320583554,North Donald,24400,2020,Ford,F250,excellent,gas,131667,clean,silver
+473,7367358874,Port Johnchester,23034,2018,Ford,F250,fair,gas,25480,clean,black
+474,7310985300,West Daniel,20545,2020,BMW,X3,excellent,gas,92216,clean,red
+475,7333095374,West Pedro,13116,2019,Cadillac,CT6,excellent,gas,167536,clean,silver
+476,7354829004,Vasquezfurt,16872,2023,BMW,X4,excellent,gas,94707,clean,red
+477,7276195160,Hughesland,39040,2023,BMW,X4,good,gas,91980,clean,white
+478,7269031699,North Jeff,22299,2020,Ford,F250,used,gas,36931,clean,red
+479,7210867441,Port Allison,10845,2023,Cadillac,CT6,fair,gas,11448,clean,custom
+480,7375151770,Mccoybury,6031,2019,BMW,X4,good,gas,89415,clean,blue
+481,7314349604,Johnsonstad,33596,2023,Chevrolet,Sonic,excellent,gas,16846,clean,white
+482,7335065805,Port Derek,21371,2023,Ford,Ranger,like new,gas,68218,clean,black
+483,7390034275,West Robertside,34025,2019,BMW,X3,excellent,gas,102307,clean,blue
+484,7297827854,South Dustin,16744,2020,Audi,A3,excellent,gas,162021,clean,green
+485,7282678453,Lake Annehaven,28951,2022,BMW,X1,used,gas,174951,clean,white
+486,7207440791,South Ashley,8443,2023,BMW,X1,excellent,gas,86302,clean,black
+487,7332534472,Batesmouth,4939,2020,Nissan,Maxima,fair,gas,142658,clean,custom
+488,7318990596,New Melissaburgh,11126,2019,Toyota,Tundra,used,gas,39659,clean,custom
+489,7398987863,Carlosport,36740,2023,Ford,F150,fair,gas,52632,clean,silver
+490,7397513774,Jasmineburgh,3993,2018,Ram,1500,excellent,gas,156112,clean,white
+491,7286233221,Hardytown,5619,2019,Audi,A3,excellent,gas,52011,clean,black
+492,7370931244,North Dawn,34010,2021,BMW,X4,fair,gas,136858,clean,white
+493,7370280311,Donnaborough,10019,2020,Genesis,G70,good,gas,112990,clean,black
+494,7319916721,North Anne,35624,2021,Honda,CRV,good,gas,52949,clean,red
+495,7375404204,Greerton,30228,2021,BMW,X4,like new,gas,141715,clean,custom
+496,7371317500,South Sherry,35053,2022,Honda,CRV,fair,gas,53239,clean,custom
+497,7225322595,New Dana,20690,2020,Chevrolet,Sonic,excellent,gas,113613,clean,green
+498,7368625615,Daleborough,26170,2022,Toyota,Tundra,fair,gas,52766,clean,custom
+499,7252070630,Crystalmouth,21666,2021,Genesis,G70,excellent,gas,156982,clean,custom
+500,7293402081,East Rebecca,13890,2023,Ford,F250,used,gas,161142,clean,white
+501,7311506475,Thompsonstad,34901,2018,Ford,F250,excellent,gas,101236,clean,blue
+502,7207838305,Brownberg,7323,2022,Ford,F250,fair,gas,38963,clean,black
+503,7371247834,Port Devin,26180,2023,Nissan,Maxima,excellent,gas,145096,clean,custom
+504,7357881891,North Angela,4577,2022,Cadillac,CT6,good,gas,98820,clean,blue
+505,7356617341,Port Troyburgh,16131,2022,BMW,X3,excellent,gas,76950,clean,white
+506,7267005751,Austinport,27344,2020,Honda,CRV,fair,gas,109459,clean,silver
+507,7374377894,West Samuel,39593,2023,Ford,F250,excellent,gas,86322,clean,green
+508,7348778399,Lake Kathyville,11438,2023,Ford,F250,excellent,gas,30210,clean,green
+509,7278965591,Lake Michaelport,37467,2023,BMW,X5,used,gas,41020,clean,custom
+510,7238340757,North Ronniehaven,37628,2021,Nissan,Maxima,like new,gas,34943,clean,green
+511,7225881842,Carterchester,6560,2019,Chevrolet,Sonic,excellent,gas,9562,clean,custom
+512,7293493138,Johnshire,21003,2019,BMW,330i,like new,gas,25081,clean,red
+513,7386160667,Travisport,23166,2020,Ram,1500,excellent,gas,104981,clean,red
+514,7240777522,South Jennifer,6152,2019,Chevrolet,Sonic,excellent,gas,21806,clean,custom
+515,7397063445,Darrylstad,13628,2020,BMW,X4,used,gas,108818,clean,white
+516,7218284654,Fergusonshire,25959,2020,Ford,Ranger,used,gas,25963,clean,white
+517,7201931220,New Diane,26248,2021,Toyota,Tundra,excellent,gas,141929,clean,red
+518,7243929443,East Chad,6976,2022,BMW,X4,fair,gas,128224,clean,white
+519,7321145574,West John,27155,2021,Ram,1500,excellent,gas,90968,clean,white
+520,7231455928,Nicoleburgh,31705,2020,Cadillac,CT6,used,gas,34115,clean,red
+521,7215019426,Robertshire,17519,2018,BMW,330i,excellent,gas,115872,clean,white
+522,7271706279,Sarahburgh,22315,2023,Ford,F250,good,gas,32752,clean,silver
+523,7215165384,South Sarafort,16377,2023,Honda,CRV,like new,gas,102955,clean,black
+524,7235020419,Barbarachester,15114,2021,Honda,CRV,excellent,gas,73725,clean,custom
+525,7210357314,Lake Cheryl,28679,2021,BMW,X4,fair,gas,45863,clean,blue
+526,7326107096,Stacyfort,34107,2021,Ford,Ranger,like new,gas,19220,clean,black
+527,7293280043,New Justin,31712,2023,BMW,X4,like new,gas,158299,clean,silver
+528,7385053078,South William,35645,2021,Ford,F250,used,gas,127070,clean,white
+529,7214828525,North Stephanieburgh,13146,2021,Honda,CRV,excellent,gas,18351,clean,custom
+530,7365613661,North Zacharybury,38871,2018,BMW,X3,excellent,gas,48588,clean,red
+531,7213281793,Garychester,22593,2019,Ford,F150,used,gas,102167,clean,green
+532,7269287143,Bryantown,30966,2018,Ford,F250,fair,gas,12818,clean,custom
+533,7399251243,Port Spencershire,18344,2020,Toyota,Tundra,good,gas,43414,clean,red
+534,7265229694,Jamesfort,15073,2023,Ford,Ranger,excellent,gas,100810,clean,white
+535,7380977791,Francesland,35704,2020,Cadillac,CT6,used,gas,116416,clean,blue
+536,7258941891,New Gina,12039,2022,BMW,X3,excellent,gas,90163,clean,white
+537,7298857848,South Davidfort,6483,2023,Ford,F150,like new,gas,138150,clean,green
+538,7258256620,South Kylemouth,31321,2022,Ford,F150,used,gas,89942,clean,silver
+539,7271348397,East Michael,19762,2020,Ram,1500,excellent,gas,124190,clean,white
+540,7375668285,Scottchester,32271,2020,BMW,330i,good,gas,37428,clean,custom
+541,7272603321,Whiteburgh,38463,2019,BMW,X4,excellent,gas,27385,clean,green
+542,7374615347,Changbury,12366,2023,Ford,Ranger,like new,gas,40628,clean,blue
+543,7270460430,Port Travischester,25559,2020,Ford,F250,excellent,gas,172035,clean,red
+544,7263512959,Port Taylor,7854,2019,Toyota,Tundra,excellent,gas,5504,clean,blue
+545,7234708702,Johnsonburgh,26218,2023,Ford,F250,excellent,gas,34405,clean,custom
+546,7359671754,New Charlesborough,33313,2018,Audi,A3,excellent,gas,123433,clean,black
+547,7204973036,Cobbhaven,20213,2019,Chevrolet,Sonic,excellent,gas,83686,clean,red
+548,7269675300,Greenfurt,4694,2022,Ram,1500,good,gas,28617,clean,silver
+549,7399704000,Lake Jack,12342,2020,Toyota,Tundra,excellent,gas,137438,clean,green
+550,7249959731,Chandlerland,27808,2022,Ford,F250,fair,gas,129686,clean,green
+551,7376754544,East Elizabethside,7015,2019,Toyota,Tundra,excellent,gas,174062,clean,custom
+552,7308451854,Smithhaven,24466,2021,Ford,F150,like new,gas,158251,clean,custom
+553,7277062195,Pacemouth,26043,2018,Cadillac,CT6,excellent,gas,68475,clean,black
+554,7379516589,Nicholeville,3825,2022,Chevrolet,Sonic,excellent,gas,103660,clean,red
+555,7220340428,South Benjamintown,27198,2021,BMW,X1,excellent,gas,153641,clean,custom
+556,7282126608,West Joshuabury,38267,2023,Genesis,G70,like new,gas,129493,clean,red
+557,7330213017,East Richardfurt,31389,2020,BMW,X4,fair,gas,59559,clean,custom
+558,7311818878,East Ashley,32082,2019,Toyota,Tundra,excellent,gas,70696,clean,blue
+559,7306361491,Lisaview,31737,2019,BMW,X4,excellent,gas,83988,clean,custom
+560,7395489505,Jordanbury,5089,2018,BMW,X1,fair,gas,76235,clean,green
+561,7373710222,Port Douglasmouth,37611,2021,Cadillac,CT6,fair,gas,24275,clean,blue
+562,7227042511,Port Ann,34359,2022,Chevrolet,Sonic,used,gas,85153,clean,silver
+563,7379069627,Debraberg,13835,2021,Nissan,Maxima,like new,gas,94295,clean,white
+564,7214206866,Williamsberg,6965,2021,Genesis,G70,used,gas,158162,clean,green
+565,7302331719,Johnshire,11268,2020,Ford,F150,good,gas,150576,clean,custom
+566,7221203473,Glassborough,25044,2020,Cadillac,CT6,good,gas,58057,clean,black
+567,7210018351,Jessemouth,13509,2018,Honda,CRV,excellent,gas,22812,clean,green
+568,7343629119,Johnsonstad,8814,2020,Nissan,Maxima,excellent,gas,97814,clean,silver
+569,7313527349,Thompsonmouth,18054,2023,Honda,CRV,excellent,gas,24075,clean,white
+570,7251425540,North Vincentside,6283,2018,Ford,Ranger,excellent,gas,51385,clean,white
+571,7378632892,Foleyview,26799,2020,Toyota,Tundra,excellent,gas,31317,clean,black
+572,7361852924,Lake Mikeville,25172,2023,Honda,CRV,excellent,gas,118273,clean,custom
+573,7396547695,Port Jameschester,38688,2020,BMW,330i,excellent,gas,64994,clean,blue
+574,7219071364,North Justinstad,6963,2021,Honda,CRV,excellent,gas,71142,clean,white
+575,7332631954,Christopherchester,27462,2021,BMW,X1,excellent,gas,102849,clean,green
+576,7290144033,Donnamouth,3434,2021,Chevrolet,Sonic,excellent,gas,38921,clean,blue
+577,7349546757,Debrastad,14162,2022,BMW,X4,like new,gas,66921,clean,custom
+578,7239203356,Kristentown,5384,2023,BMW,X1,excellent,gas,170270,clean,white
+579,7351863115,Port Billy,19247,2021,Toyota,Tundra,fair,gas,63593,clean,blue
+580,7310998052,New Justinville,38183,2023,BMW,X3,fair,gas,142065,clean,black
+581,7283326633,New Jamesfurt,10194,2018,Ford,Ranger,good,gas,113325,clean,blue
+582,7277269147,Jamieton,13047,2019,BMW,330i,good,gas,14065,clean,custom
+583,7342017875,East Cathy,18219,2019,Toyota,Tundra,excellent,gas,111285,clean,blue
+584,7234503576,Ericaborough,8215,2022,Cadillac,CT6,excellent,gas,152848,clean,green
+585,7226695961,West Douglas,34036,2019,Ford,Ranger,excellent,gas,167110,clean,blue
+586,7237192038,Lake Melissa,28275,2023,Genesis,G70,like new,gas,62979,clean,silver
+587,7369001985,Port Tiffany,11173,2023,Chevrolet,Sonic,excellent,gas,151898,clean,blue
+588,7241404883,Lake Susan,15506,2019,Genesis,G70,used,gas,84175,clean,custom
+589,7211917751,Port Audrey,34198,2021,Ford,Ranger,used,gas,90615,clean,black
+590,7294475374,Lake Markfurt,24114,2020,Ford,F150,excellent,gas,135951,clean,custom
+591,7248415453,Port Kenneth,7551,2023,Honda,CRV,fair,gas,62462,clean,red
+592,7200846418,Port Kevinside,38043,2020,BMW,330i,excellent,gas,48723,clean,silver
+593,7394779500,Caseyberg,6142,2019,Ram,1500,fair,gas,45348,clean,blue
+594,7262153328,Carlsontown,14572,2022,BMW,X1,excellent,gas,66992,clean,white
+595,7326161665,Lake Cody,4601,2022,Nissan,Maxima,like new,gas,123422,clean,silver
+596,7336965398,East David,10693,2019,Audi,A3,excellent,gas,156187,clean,custom
+597,7239763302,Hollyville,12392,2021,BMW,X4,excellent,gas,112320,clean,white
+598,7225007546,South Daniel,7092,2023,BMW,X5,fair,gas,27264,clean,black
+599,7381119266,Heatherhaven,3783,2020,BMW,X1,excellent,gas,101840,clean,blue
+600,7320252786,Port Michaelfort,6953,2022,Genesis,G70,excellent,gas,45779,clean,blue
+601,7379844086,West Melaniechester,6991,2021,Nissan,Maxima,excellent,gas,174857,clean,black
+602,7382723398,Lake Zacharyland,19604,2019,Nissan,Maxima,good,gas,122105,clean,green
+603,7287014479,Francoshire,39340,2020,BMW,X3,like new,gas,76214,clean,black
+604,7275941959,Barbarabury,27758,2018,BMW,X5,excellent,gas,122153,clean,custom
+605,7347212954,Gravesfurt,18602,2023,Nissan,Maxima,excellent,gas,119461,clean,blue
+606,7361311408,Jillchester,22069,2023,Toyota,Tundra,like new,gas,68262,clean,blue
+607,7395363250,North Jenniferton,30041,2022,Ford,Ranger,excellent,gas,17198,clean,silver
+608,7330229018,South Theresa,33039,2018,Genesis,G70,fair,gas,69314,clean,silver
+609,7289181482,East Danielhaven,17779,2018,Ram,1500,excellent,gas,172089,clean,green
+610,7301566491,Lake Margaretmouth,8042,2018,Genesis,G70,good,gas,174374,clean,blue
+611,7376685214,Garciaberg,29305,2019,Cadillac,CT6,good,gas,80337,clean,blue
+612,7246212099,Stephenbury,33402,2023,BMW,X4,used,gas,131221,clean,red
+613,7268229737,Roseview,9882,2019,Nissan,Maxima,like new,gas,5117,clean,green
+614,7264530277,South Jacqueline,31760,2020,Audi,A3,excellent,gas,163643,clean,silver
+615,7214438542,Nortonbury,37257,2023,Chevrolet,Sonic,excellent,gas,50269,clean,black
+616,7256060188,Douglasmouth,18754,2018,BMW,X5,excellent,gas,103825,clean,white
+617,7255388600,Port Jennifer,33873,2023,Ford,Ranger,excellent,gas,110992,clean,white
+618,7311499410,Lake Coryshire,25434,2023,BMW,X3,excellent,gas,161285,clean,blue
+619,7348526385,East Larry,20092,2022,Cadillac,CT6,excellent,gas,79959,clean,blue
+620,7219414935,Port Caitlin,16596,2019,Genesis,G70,excellent,gas,131467,clean,green
+621,7253748899,Pattonland,9770,2018,BMW,330i,excellent,gas,173242,clean,silver
+622,7255777730,Brianmouth,11231,2023,Cadillac,CT6,excellent,gas,122661,clean,custom
+623,7331123919,West Katrina,13535,2018,Cadillac,CT6,excellent,gas,124841,clean,red
+624,7305718981,New Amy,3459,2018,BMW,X1,fair,gas,144495,clean,blue
+625,7257594883,Welchstad,17723,2021,Honda,CRV,good,gas,109202,clean,black
+626,7202634832,Patriciafort,13220,2019,BMW,X3,excellent,gas,36029,clean,green
+627,7214281306,West Lawrence,39862,2019,Audi,A3,excellent,gas,6107,clean,white
+628,7282416055,North Ryan,20108,2019,Chevrolet,Sonic,excellent,gas,12108,clean,white
+629,7230231305,Malloryside,37096,2018,Toyota,Tundra,good,gas,113208,clean,silver
+630,7380254863,Amandaville,28932,2019,Ford,Ranger,fair,gas,80916,clean,black
+631,7273037095,New David,14183,2021,Cadillac,CT6,fair,gas,24526,clean,custom
+632,7336464008,Amystad,32034,2020,Chevrolet,Sonic,excellent,gas,134870,clean,white
+633,7256385019,Martinland,36584,2018,Cadillac,CT6,excellent,gas,68177,clean,custom
+634,7358529919,Port Holly,7699,2018,Cadillac,CT6,excellent,gas,172415,clean,custom
+635,7377533353,South Christine,37171,2020,Ford,Ranger,excellent,gas,151724,clean,silver
+636,7252764942,Parkershire,33265,2022,BMW,330i,fair,gas,103301,clean,green
+637,7233628693,Jessicafurt,27548,2020,BMW,X1,fair,gas,67071,clean,black
+638,7260955900,New Lauren,3439,2021,Audi,A3,used,gas,88197,clean,silver
+639,7384536523,North Dana,15976,2021,Honda,CRV,excellent,gas,127669,clean,black
+640,7386054926,Lake Eric,28743,2018,BMW,X1,excellent,gas,43155,clean,custom
+641,7350593069,Eddietown,3503,2022,BMW,X4,excellent,gas,88919,clean,silver
+642,7250011904,North Christopher,35785,2023,Toyota,Tundra,excellent,gas,28280,clean,silver
+643,7346299100,West Jessica,12795,2023,Ram,1500,excellent,gas,19681,clean,blue
+644,7290781391,East Donald,23616,2018,BMW,X4,fair,gas,104007,clean,red
+645,7263903132,Richardsonfort,31315,2022,Ram,1500,used,gas,123505,clean,green
+646,7349351829,West Stephen,28606,2020,Nissan,Maxima,excellent,gas,102804,clean,white
+647,7298837002,New Julialand,8393,2023,Cadillac,CT6,like new,gas,12500,clean,blue
+648,7312401141,Port Jenniferville,17592,2023,BMW,330i,excellent,gas,174334,clean,blue
+649,7212246696,East Lisaport,32674,2023,Toyota,Tundra,fair,gas,26974,clean,red
+650,7213569617,Lake Amyport,16260,2020,BMW,X3,good,gas,5313,clean,white
+651,7358272957,Danieltown,10276,2019,Chevrolet,Sonic,excellent,gas,75419,clean,green
+652,7247895289,New William,18387,2020,Chevrolet,Sonic,fair,gas,5103,clean,custom
+653,7373853856,Albertstad,22038,2023,Chevrolet,Sonic,fair,gas,174805,clean,silver
+654,7360580869,North Paigeport,25439,2021,Toyota,Tundra,excellent,gas,89151,clean,red
+655,7394930630,South Anthonychester,24003,2020,BMW,X1,fair,gas,160248,clean,custom
+656,7226782561,Karenview,39996,2020,BMW,X3,excellent,gas,144979,clean,red
+657,7225882384,Lake Gregory,28546,2021,Ford,F150,excellent,gas,122440,clean,green
+658,7251661588,North Eric,31131,2021,Ram,1500,excellent,gas,13233,clean,white
+659,7266438617,Martinezland,32192,2018,Ram,1500,excellent,gas,86419,clean,white
+660,7278848137,New Jefferyfort,4630,2020,Ford,F150,excellent,gas,104404,clean,custom
+661,7328523748,West Melissamouth,37344,2023,BMW,X4,fair,gas,26865,clean,blue
+662,7284767932,Chaseview,6281,2020,Ford,Ranger,fair,gas,103979,clean,custom
+663,7261887330,Melissafurt,37508,2020,Nissan,Maxima,good,gas,35936,clean,silver
+664,7240759007,North Megan,20219,2020,Audi,A3,used,gas,144710,clean,silver
+665,7340155303,Jacobview,20374,2023,Honda,CRV,like new,gas,100369,clean,red
+666,7286496330,Stephaniechester,24763,2022,Genesis,G70,excellent,gas,162916,clean,white
+667,7239333418,North Timothy,33673,2022,Nissan,Maxima,fair,gas,172010,clean,blue
+668,7294976473,Bookerstad,17986,2020,Ford,F150,excellent,gas,104646,clean,custom
+669,7350386865,North Jameshaven,20785,2021,BMW,X1,good,gas,15975,clean,red
+670,7372408508,Jonathanmouth,17202,2022,BMW,X1,excellent,gas,113978,clean,silver
+671,7237916202,New Matthew,35768,2022,Nissan,Maxima,fair,gas,161715,clean,blue
+672,7233607561,Kellyland,38791,2022,Genesis,G70,used,gas,83785,clean,black
+673,7359599989,Mcdonaldstad,12576,2022,Genesis,G70,excellent,gas,58200,clean,red
+674,7216785436,Port Courtneychester,26439,2023,Chevrolet,Sonic,good,gas,138054,clean,blue
+675,7313393989,Lake Kaitlynhaven,33344,2023,BMW,X5,excellent,gas,9327,clean,green
+676,7252541826,Jenniferport,24800,2019,Chevrolet,Sonic,excellent,gas,122547,clean,red
+677,7292305891,Simsville,16033,2019,Ram,1500,like new,gas,126822,clean,silver
+678,7398221281,Port Regina,27637,2022,Ford,Ranger,excellent,gas,130573,clean,blue
+679,7228443659,Danielfort,19715,2020,Cadillac,CT6,excellent,gas,150122,clean,red
+680,7348741650,Mcbrideberg,34220,2022,Cadillac,CT6,good,gas,34225,clean,custom
+681,7356275339,Brittanychester,21111,2023,Toyota,Tundra,excellent,gas,54903,clean,custom
+682,7284802507,Charlesside,18275,2019,BMW,X3,excellent,gas,7489,clean,green
+683,7254465573,West Annshire,33750,2022,BMW,X3,excellent,gas,24610,clean,red
+684,7282423962,Lake Alexander,17116,2020,Ram,1500,good,gas,86814,clean,white
+685,7315631532,Port Shawn,5834,2022,Genesis,G70,excellent,gas,101701,clean,black
+686,7396483528,Howardshire,37886,2018,Nissan,Maxima,excellent,gas,50317,clean,custom
+687,7369601945,Port Samantha,26262,2018,Genesis,G70,excellent,gas,61433,clean,black
+688,7376400164,South Jameshaven,10674,2023,Ford,F250,like new,gas,124445,clean,custom
+689,7206690389,Lake Jayport,22496,2018,Nissan,Maxima,excellent,gas,157269,clean,red
+690,7265409017,East Heatherport,4620,2021,BMW,X3,good,gas,104281,clean,green
+691,7341155189,Currytown,30060,2020,BMW,X5,fair,gas,167036,clean,green
+692,7211630334,Roachmouth,22397,2019,BMW,330i,excellent,gas,39001,clean,custom
+693,7362651408,South Joshuaberg,31674,2019,Honda,CRV,like new,gas,47921,clean,red
+694,7284982904,Hopkinsburgh,19734,2022,Chevrolet,Sonic,used,gas,52291,clean,black
+695,7212620705,New Christian,14790,2022,Ford,Ranger,excellent,gas,71551,clean,blue
+696,7372898834,Smithstad,28645,2022,Cadillac,CT6,fair,gas,129818,clean,silver
+697,7394014351,Johnsonberg,34059,2021,Audi,A3,fair,gas,123557,clean,white
+698,7381774831,Rebeccafurt,14291,2018,Ram,1500,good,gas,89221,clean,green
+699,7241229339,East Steve,37249,2021,Ram,1500,excellent,gas,64706,clean,custom
+700,7315753399,South Steven,26046,2023,Ram,1500,fair,gas,125342,clean,white
+701,7336018653,Brooksland,13371,2022,BMW,X4,good,gas,169279,clean,silver
+702,7276604160,Hollyton,39910,2021,BMW,X3,like new,gas,112555,clean,blue
+703,7387433864,Adamside,25888,2020,Ford,F250,used,gas,44001,clean,black
+704,7328516117,Mccarthyshire,21449,2019,Audi,A3,good,gas,147365,clean,blue
+705,7351885651,Turnerchester,22819,2023,BMW,X4,good,gas,103147,clean,green
+706,7370074177,North Charlesview,18755,2023,Nissan,Maxima,fair,gas,163728,clean,blue
+707,7394973066,Smithtown,8972,2021,BMW,X3,excellent,gas,159916,clean,custom
+708,7272819647,East Joshua,35924,2023,Toyota,Tundra,used,gas,113105,clean,red
+709,7217796914,East Kathy,16905,2022,Genesis,G70,used,gas,75367,clean,blue
+710,7281891562,West Jennifer,17704,2020,BMW,X1,excellent,gas,83363,clean,custom
+711,7219488177,Myersview,31623,2023,BMW,X5,excellent,gas,27178,clean,blue
+712,7255431493,South Jamiemouth,28488,2019,BMW,X1,good,gas,141811,clean,silver
+713,7346948472,Mistyland,24432,2023,BMW,X4,excellent,gas,90945,clean,custom
+714,7230519809,East Gregory,22848,2021,Ram,1500,excellent,gas,71555,clean,black
+715,7283417761,Lake Brittany,26296,2020,Honda,CRV,excellent,gas,58485,clean,black
+716,7250667683,New Adrienne,33737,2019,Toyota,Tundra,used,gas,88447,clean,green
+717,7204154168,Allisonside,28587,2018,BMW,X4,excellent,gas,50968,clean,white
+718,7214711119,Racheltown,27133,2023,Genesis,G70,used,gas,81455,clean,white
+719,7307731432,Robertburgh,21513,2021,BMW,330i,used,gas,67315,clean,red
+720,7204096603,Paulfurt,26705,2021,BMW,X3,good,gas,53869,clean,custom
+721,7220573358,North Isaac,35886,2020,Ram,1500,like new,gas,135705,clean,green
+722,7349985873,South Heatherborough,11252,2022,Genesis,G70,excellent,gas,141366,clean,green
+723,7238925817,South Courtneystad,27704,2019,Honda,CRV,excellent,gas,130558,clean,silver
+724,7334770337,East Tammy,4070,2018,Audi,A3,used,gas,106968,clean,silver
+725,7398510370,Latoyastad,3316,2022,Toyota,Tundra,fair,gas,35374,clean,blue
+726,7353836439,South Nicholas,10972,2018,Honda,CRV,like new,gas,93850,clean,black
+727,7262452578,New Marvin,34114,2020,Honda,CRV,excellent,gas,14557,clean,blue
+728,7202331119,Taylortown,24303,2019,Honda,CRV,like new,gas,163834,clean,green
+729,7272352421,Maureenchester,18601,2023,BMW,X4,used,gas,136456,clean,custom
+730,7304527370,Garzastad,32331,2018,BMW,X4,excellent,gas,152038,clean,custom
+731,7292756572,North Danielside,17441,2021,Ford,F150,good,gas,72001,clean,red
+732,7302694131,Millerstad,20996,2019,Audi,A3,good,gas,165341,clean,white
+733,7262324519,Sweeneyland,5506,2018,Honda,CRV,excellent,gas,6888,clean,blue
+734,7240214421,Perezborough,26578,2023,BMW,X3,excellent,gas,12256,clean,black
+735,7215656779,Riveraville,4821,2023,BMW,X1,excellent,gas,66832,clean,blue
+736,7277345281,Cruzport,8798,2022,BMW,X5,good,gas,84761,clean,custom
+737,7217001265,Bauerfort,16020,2021,BMW,X1,excellent,gas,48386,clean,green
+738,7244244096,Gentryview,39877,2022,Ford,Ranger,fair,gas,113108,clean,silver
+739,7299515753,Xavierburgh,9657,2022,Audi,A3,excellent,gas,147627,clean,silver
+740,7371909729,Wallaceburgh,11571,2023,Nissan,Maxima,used,gas,148705,clean,green
+741,7332061343,Patelfort,36418,2019,Ford,F250,good,gas,102343,clean,white
+742,7253394117,East Kevinborough,9588,2023,Cadillac,CT6,fair,gas,21676,clean,white
+743,7277546377,Lawrencestad,4578,2022,Ford,Ranger,fair,gas,105836,clean,blue
+744,7372320816,New Tracy,5819,2022,Ford,F150,fair,gas,87364,clean,silver
+745,7222173581,Frankhaven,34363,2018,BMW,X3,excellent,gas,83538,clean,silver
+746,7342904074,West Jeremy,25894,2023,Honda,CRV,good,gas,46219,clean,red
+747,7207474533,Bentleyville,21346,2019,Cadillac,CT6,good,gas,34319,clean,white
+748,7352965993,Williamberg,36643,2018,Ford,Ranger,excellent,gas,145444,clean,white
+749,7306084383,Port Gabriellaport,27003,2019,BMW,X3,like new,gas,31855,clean,blue
+750,7235175533,East Kimberly,25886,2018,Ram,1500,excellent,gas,159882,clean,black
+751,7361031985,Port Tinaton,30694,2018,Ford,F250,excellent,gas,57133,clean,red
+752,7386868946,West Glendaborough,36081,2021,BMW,X5,excellent,gas,44896,clean,green
+753,7369148950,Port Brittany,37687,2023,Ford,F150,good,gas,27887,clean,black
+754,7359753331,Scottchester,26308,2022,BMW,X3,good,gas,82469,clean,green
+755,7233230620,Matthewland,31836,2021,Nissan,Maxima,good,gas,44974,clean,blue
+756,7357031326,Serranofort,9417,2019,BMW,X1,fair,gas,140465,clean,green
+757,7321913640,South Andrewborough,34741,2020,Ford,F150,fair,gas,96681,clean,green
+758,7229354568,Martinchester,34364,2020,Honda,CRV,fair,gas,106970,clean,red
+759,7375127067,Williammouth,23992,2022,BMW,X1,excellent,gas,113222,clean,red
+760,7318764659,Bauerside,29940,2018,BMW,X4,used,gas,42457,clean,custom
+761,7334423023,North Sherryton,7178,2022,Genesis,G70,excellent,gas,145594,clean,custom
+762,7247980772,North Carolbury,26285,2021,BMW,X5,excellent,gas,42144,clean,green
+763,7366855597,North Charlesville,34700,2018,BMW,330i,fair,gas,21387,clean,black
+764,7343904535,New Dana,13774,2018,Nissan,Maxima,excellent,gas,56545,clean,silver
+765,7269205332,Rodriguezfurt,25686,2022,BMW,330i,good,gas,131821,clean,black
+766,7283342451,East John,33464,2018,BMW,330i,excellent,gas,117130,clean,black
+767,7257244899,Liutown,36680,2021,Ford,F150,good,gas,38896,clean,white
+768,7257719549,South Jeffrey,11177,2018,BMW,X1,fair,gas,26095,clean,custom
+769,7200375903,Sellersside,9349,2019,Toyota,Tundra,like new,gas,145831,clean,silver
+770,7393003330,Benjaminport,27673,2023,BMW,X4,excellent,gas,28576,clean,blue
+771,7239266114,Laurabury,9315,2018,Cadillac,CT6,fair,gas,154332,clean,black
+772,7255871051,Willisland,14945,2018,Cadillac,CT6,fair,gas,65498,clean,silver
+773,7351024052,Matthewside,21816,2019,Genesis,G70,excellent,gas,85340,clean,custom
+774,7382973149,West Kennethborough,33728,2022,Ford,Ranger,excellent,gas,50864,clean,green
+775,7259544475,South Cynthiatown,27317,2018,Chevrolet,Sonic,excellent,gas,150587,clean,silver
+776,7345172437,West Laura,26370,2022,Honda,CRV,fair,gas,78624,clean,custom
+777,7306051702,South Jacqueline,13902,2020,Nissan,Maxima,excellent,gas,131227,clean,silver
+778,7306687642,East Jennifermouth,32714,2018,BMW,X4,excellent,gas,97343,clean,black
+779,7302315996,Michaelshire,22811,2019,Ford,F150,used,gas,85410,clean,green
+780,7300801616,West Shari,24880,2021,Ford,Ranger,excellent,gas,70215,clean,white
+781,7357223504,Barbaratown,37678,2021,Toyota,Tundra,good,gas,97853,clean,white
+782,7380751356,Richardfurt,3966,2020,Ram,1500,excellent,gas,5801,clean,custom
+783,7347029813,Tuckerton,9208,2018,BMW,X3,fair,gas,16915,clean,red
+784,7306606677,Coreyfort,23943,2019,Audi,A3,excellent,gas,52764,clean,white
+785,7330886702,Carterberg,11988,2021,Ford,F250,fair,gas,116063,clean,silver
+786,7240015337,Port Jerome,24737,2021,Ford,F250,fair,gas,121642,clean,custom
+787,7266319581,East Matthewstad,5905,2022,BMW,X3,excellent,gas,104822,clean,red
+788,7238192233,North Ginaview,19194,2021,Nissan,Maxima,good,gas,50295,clean,blue
+789,7270645951,West Emilyhaven,26185,2020,BMW,X4,excellent,gas,142039,clean,black
+790,7298070617,Blanchardshire,20439,2022,Audi,A3,used,gas,110425,clean,black
+791,7355617750,New Veronica,9707,2021,BMW,X5,excellent,gas,154885,clean,white
+792,7212318047,Greenview,13773,2020,Nissan,Maxima,used,gas,144852,clean,blue
+793,7307148168,Derekside,11047,2023,BMW,X4,excellent,gas,109305,clean,red
+794,7243257469,New John,26791,2021,Chevrolet,Sonic,excellent,gas,25924,clean,blue
+795,7209760541,Atkinsburgh,24724,2018,Ford,F250,excellent,gas,20547,clean,custom
+796,7292848586,North Maria,3466,2018,BMW,X4,fair,gas,22996,clean,custom
+797,7236952423,Lake Sarah,27566,2021,Ford,F150,excellent,gas,142046,clean,custom
+798,7358554022,Port Richard,23073,2022,Ford,F150,excellent,gas,166730,clean,green
+799,7205746439,Vasquezfurt,17967,2021,Chevrolet,Sonic,excellent,gas,51982,clean,black
+800,7237477124,Johnsonberg,27161,2021,Ram,1500,excellent,gas,156469,clean,custom
+801,7245918501,East Susan,26475,2021,Nissan,Maxima,fair,gas,124661,clean,green
+802,7317826793,East Kimberlyfurt,36238,2018,Toyota,Tundra,like new,gas,139232,clean,red
+803,7213706378,Adamchester,13701,2020,BMW,X5,excellent,gas,54644,clean,silver
+804,7319638232,Lauraville,37756,2022,BMW,330i,good,gas,33010,clean,blue
+805,7355107425,Port Shannon,26428,2018,Ram,1500,excellent,gas,20984,clean,silver
+806,7245022527,Ballfurt,33978,2019,Ram,1500,excellent,gas,163819,clean,red
+807,7355524930,New Crystalport,9139,2021,Nissan,Maxima,fair,gas,89799,clean,red
+808,7358904443,Josephmouth,25351,2023,Ford,F250,good,gas,99310,clean,blue
+809,7348971856,West Timothyside,17982,2021,Chevrolet,Sonic,used,gas,74020,clean,white
+810,7292862643,Hallside,39240,2021,Ford,F150,fair,gas,168224,clean,silver
+811,7352682045,Maddoxborough,18819,2023,BMW,X5,used,gas,57246,clean,red
+812,7242380850,Cassidyland,38730,2021,Cadillac,CT6,like new,gas,131924,clean,black
+813,7227202290,South Amanda,18167,2020,BMW,X4,excellent,gas,155200,clean,red
+814,7276569402,North Kristi,28787,2019,Ford,Ranger,fair,gas,122584,clean,black
+815,7268889739,Michaelhaven,30816,2018,Genesis,G70,like new,gas,160110,clean,black
+816,7346401266,South Susantown,9254,2019,BMW,X1,like new,gas,112625,clean,red
+817,7384678006,Alexandramouth,9253,2020,BMW,X1,excellent,gas,140158,clean,white
+818,7225436192,Ericburgh,19432,2019,Honda,CRV,excellent,gas,30607,clean,custom
+819,7384266787,Fordtown,24142,2018,BMW,X5,fair,gas,66851,clean,custom
+820,7230520937,Schmidtton,28795,2018,BMW,330i,fair,gas,86257,clean,black
+821,7225135266,Austinhaven,33009,2023,Ford,F150,used,gas,13118,clean,red
+822,7279604076,Gregoryshire,17701,2020,Ford,Ranger,fair,gas,65140,clean,red
+823,7395870414,Whiteview,36307,2021,Chevrolet,Sonic,excellent,gas,20855,clean,red
+824,7396139403,West Emilybury,28340,2019,BMW,X4,excellent,gas,127329,clean,red
+825,7358596946,Lake Evelyn,36658,2021,Ford,Ranger,good,gas,44162,clean,red
+826,7297270606,Andrewmouth,35027,2023,Ford,Ranger,good,gas,98508,clean,silver
+827,7382241821,Patrickfort,6538,2020,Chevrolet,Sonic,excellent,gas,109462,clean,white
+828,7213620559,South Cynthia,19729,2022,Ford,Ranger,excellent,gas,68074,clean,red
+829,7276092825,Lake Jessicatown,31251,2022,BMW,X4,excellent,gas,102074,clean,custom
+830,7350612747,Robertsbury,20870,2020,Nissan,Maxima,used,gas,77263,clean,black
+831,7333747893,Duncanton,15210,2021,Honda,CRV,good,gas,142338,clean,custom
+832,7214133875,Tuckerbury,35573,2019,Ford,Ranger,excellent,gas,26129,clean,blue
+833,7341119994,Morrisbury,9936,2018,Audi,A3,excellent,gas,45862,clean,black
+834,7272404782,Lake John,14826,2023,Audi,A3,excellent,gas,71139,clean,red
+835,7236306256,Michaelborough,7013,2020,Ram,1500,like new,gas,157523,clean,silver
+836,7301814688,West Blake,14597,2021,BMW,X3,excellent,gas,55696,clean,black
+837,7323172585,West Brianland,32835,2022,Ram,1500,excellent,gas,84093,clean,red
+838,7326310055,Lake Guyshire,7908,2018,Ford,F250,like new,gas,6511,clean,black
+839,7331526788,South Thomaschester,21157,2020,BMW,X3,excellent,gas,64091,clean,red
+840,7349938504,South Williamfort,5830,2021,Genesis,G70,excellent,gas,59406,clean,green
+841,7253876224,Michellefort,39749,2020,Cadillac,CT6,good,gas,77514,clean,blue
+842,7266225768,North Cody,35190,2021,Ford,F250,used,gas,31449,clean,white
+843,7238062868,Carlashire,19888,2020,Ford,Ranger,good,gas,157668,clean,green
+844,7280631796,South Alyssaville,21540,2019,Ram,1500,excellent,gas,113615,clean,black
+845,7313539047,Jademouth,34648,2020,Toyota,Tundra,excellent,gas,22614,clean,white
+846,7380554457,East Marissa,3510,2021,Nissan,Maxima,excellent,gas,156859,clean,white
+847,7357259708,Hicksmouth,12387,2021,Ford,Ranger,excellent,gas,109799,clean,blue
+848,7262068929,Carlyburgh,39795,2023,BMW,X5,excellent,gas,77389,clean,blue
+849,7392308100,South Michael,3907,2021,BMW,X4,used,gas,126796,clean,green
+850,7211363679,Lake Shane,18254,2021,Chevrolet,Sonic,excellent,gas,148737,clean,white
+851,7238525471,East Josephfurt,11596,2021,Ford,F250,excellent,gas,107960,clean,blue
+852,7270632447,Perezland,13160,2018,Ford,F150,excellent,gas,138565,clean,black
+853,7347149689,West Tiffanymouth,38094,2021,Genesis,G70,fair,gas,70917,clean,black
+854,7266780241,Port Christopher,15375,2021,Cadillac,CT6,fair,gas,74211,clean,red
+855,7250662837,Aliciaborough,6285,2023,Ford,Ranger,fair,gas,98757,clean,black
+856,7314280325,Odomview,12613,2023,Chevrolet,Sonic,fair,gas,128349,clean,silver
+857,7280845756,Port Brenthaven,3923,2020,BMW,330i,excellent,gas,9017,clean,custom
+858,7395976895,North Emilyburgh,38814,2023,Ford,Ranger,excellent,gas,158358,clean,green
+859,7295602946,East Debra,22959,2020,Ford,F150,used,gas,131797,clean,black
+860,7214628068,New Tamaraborough,7976,2023,Audi,A3,fair,gas,142809,clean,silver
+861,7357455267,Lake Brandonport,6296,2022,Chevrolet,Sonic,excellent,gas,39558,clean,green
+862,7312962956,New Christophermouth,31142,2018,Audi,A3,excellent,gas,168152,clean,blue
+863,7216582138,Holtfurt,11462,2020,Ford,Ranger,used,gas,52547,clean,black
+864,7380705222,Faulknerburgh,16187,2021,Ford,F250,fair,gas,136280,clean,red
+865,7296979603,West Gailmouth,18252,2019,Chevrolet,Sonic,excellent,gas,167930,clean,blue
+866,7338100891,South Jacob,21509,2021,BMW,330i,used,gas,27253,clean,black
+867,7293675078,Amyhaven,24068,2022,Cadillac,CT6,excellent,gas,74222,clean,red
+868,7232304313,Hansonshire,26234,2023,Chevrolet,Sonic,good,gas,63729,clean,red
+869,7360262160,Shortchester,15802,2020,Ram,1500,excellent,gas,157470,clean,black
+870,7275390849,Ethanbury,11886,2018,Cadillac,CT6,excellent,gas,36932,clean,black
+871,7213519023,West James,35567,2022,BMW,X4,like new,gas,13308,clean,black
+872,7276399897,Robinsonbury,5760,2021,Ram,1500,excellent,gas,114301,clean,red
+873,7261764461,Hermanburgh,21273,2019,Audi,A3,good,gas,118274,clean,green
+874,7329892185,Frankborough,37551,2023,Ford,Ranger,excellent,gas,36898,clean,silver
+875,7339795749,Smithside,12045,2020,Toyota,Tundra,fair,gas,109723,clean,custom
+876,7346907997,Churchhaven,20865,2021,Ford,F150,fair,gas,163888,clean,white
+877,7233363354,Tammybury,30767,2021,Toyota,Tundra,fair,gas,166132,clean,silver
+878,7382321792,Lake Reneemouth,6624,2023,Ford,Ranger,excellent,gas,113155,clean,black
+879,7287071162,Floresville,9439,2020,Ram,1500,excellent,gas,118346,clean,blue
+880,7214232640,Cindyland,38542,2020,Chevrolet,Sonic,excellent,gas,90977,clean,red
+881,7314367683,Martinezland,14237,2020,Ram,1500,excellent,gas,138300,clean,red
+882,7267800211,Higginsborough,25172,2018,Cadillac,CT6,excellent,gas,32367,clean,silver
+883,7219790410,East Amyville,29753,2022,Audi,A3,fair,gas,13695,clean,blue
+884,7221196340,Barbaraport,36919,2023,Audi,A3,used,gas,137424,clean,green
+885,7351900003,Port Josephmouth,37664,2018,Honda,CRV,good,gas,172804,clean,white
+886,7224568333,Taylorshire,14929,2023,BMW,X3,excellent,gas,25501,clean,custom
+887,7242105844,Shawnside,25903,2019,Chevrolet,Sonic,like new,gas,118397,clean,blue
+888,7286970054,Lake Amandamouth,35861,2019,Cadillac,CT6,excellent,gas,107580,clean,white
+889,7316156092,Kimberlyshire,17966,2019,Genesis,G70,like new,gas,54277,clean,custom
+890,7315870134,Karenland,36956,2022,Ford,F150,good,gas,60532,clean,custom
+891,7378789181,North Ashley,26377,2019,Honda,CRV,excellent,gas,58576,clean,white
+892,7305622570,Ortegastad,22884,2020,BMW,X3,excellent,gas,66798,clean,custom
+893,7278667499,East Robertoport,4940,2022,Nissan,Maxima,excellent,gas,167675,clean,black
+894,7301648302,New Troyside,32333,2022,Genesis,G70,good,gas,150681,clean,white
+895,7329384302,West Amber,35175,2020,Ford,F150,good,gas,54972,clean,white
+896,7372499239,Port Tamarachester,19308,2021,BMW,X3,excellent,gas,154769,clean,custom
+897,7337877320,New Ashley,28923,2020,BMW,X5,excellent,gas,93449,clean,blue
+898,7393116201,Port Dennisville,24902,2022,BMW,330i,like new,gas,43563,clean,red
+899,7213690072,North Bethmouth,13028,2018,BMW,330i,like new,gas,43418,clean,white
+900,7280762990,Lewistown,20074,2022,BMW,330i,excellent,gas,12200,clean,custom
+901,7314323617,Port Chelseahaven,21618,2021,Toyota,Tundra,excellent,gas,53533,clean,silver
+902,7250038133,Richardton,3517,2020,BMW,330i,good,gas,137977,clean,white
+903,7391431585,Brownview,10947,2018,Honda,CRV,excellent,gas,20350,clean,white
+904,7358919270,Potterburgh,39117,2022,BMW,X3,excellent,gas,155959,clean,white
+905,7395146178,Lake Daniel,7755,2020,Genesis,G70,fair,gas,154273,clean,custom
+906,7215001306,Lake Molly,14535,2019,Ford,F250,good,gas,113686,clean,black
+907,7339928436,Juliaside,37340,2021,Toyota,Tundra,fair,gas,21828,clean,blue
+908,7240455149,East Thomas,29634,2019,Toyota,Tundra,excellent,gas,143013,clean,blue
+909,7252385402,East Jeanetteberg,25428,2019,Ford,Ranger,excellent,gas,97527,clean,white
+910,7223672943,Kimberlyland,19995,2022,Cadillac,CT6,excellent,gas,30133,clean,black
+911,7204365548,Annestad,30210,2023,BMW,X1,excellent,gas,85631,clean,white
+912,7360976137,Gregorymouth,29359,2020,Ford,F250,like new,gas,41751,clean,black
+913,7243976817,Marytown,34714,2018,BMW,X4,excellent,gas,132962,clean,blue
+914,7385749706,Boothhaven,38350,2022,Nissan,Maxima,excellent,gas,156836,clean,custom
+915,7277515251,East Christopher,13462,2019,Cadillac,CT6,excellent,gas,112308,clean,green
+916,7303521264,Robertfurt,20468,2021,Ford,F150,fair,gas,110747,clean,red
+917,7217793372,Salinasport,9494,2023,Chevrolet,Sonic,excellent,gas,12449,clean,blue
+918,7268405653,Lake Brian,25584,2021,Honda,CRV,fair,gas,51089,clean,green
+919,7298429426,North Alexandershire,17403,2023,BMW,X1,excellent,gas,153075,clean,custom
+920,7387879390,Lake Zachary,24382,2021,Audi,A3,excellent,gas,151201,clean,white
+921,7234189772,Port Colin,19077,2018,Honda,CRV,excellent,gas,125239,clean,red
+922,7270891168,East Danielborough,8201,2018,Honda,CRV,good,gas,21711,clean,red
+923,7380935696,South Tylerview,21388,2018,BMW,X1,excellent,gas,140466,clean,green
+924,7239740518,Kimberlyport,14992,2020,BMW,X1,excellent,gas,25717,clean,black
+925,7310154274,Port George,24380,2022,BMW,X3,good,gas,79380,clean,white
+926,7306955082,North Jennifer,10322,2018,Ram,1500,excellent,gas,8369,clean,silver
+927,7390969370,South Pamelatown,10235,2018,BMW,X1,used,gas,109546,clean,red
+928,7283428059,South Jonathan,17148,2018,Genesis,G70,good,gas,146030,clean,green
+929,7370396307,Kelleyshire,4147,2021,BMW,330i,like new,gas,48424,clean,silver
+930,7277770228,East Marcia,21499,2020,BMW,X5,fair,gas,32180,clean,red
+931,7367768994,South Amber,9694,2023,BMW,X5,fair,gas,31911,clean,custom
+932,7315172621,Vargashaven,3325,2023,Chevrolet,Sonic,good,gas,9460,clean,white
+933,7214954764,Lake Michellestad,15473,2021,Toyota,Tundra,excellent,gas,70902,clean,red
+934,7217572576,Chadland,20382,2020,Ford,Ranger,fair,gas,15400,clean,custom
+935,7349489003,Robertbury,19229,2020,Genesis,G70,excellent,gas,28006,clean,white
+936,7352704260,Robbinsmouth,14736,2019,BMW,X4,good,gas,131270,clean,silver
+937,7217259821,South Dustinview,30260,2021,Ford,Ranger,excellent,gas,100814,clean,blue
+938,7275553724,Huntview,13166,2021,Chevrolet,Sonic,excellent,gas,91130,clean,custom
+939,7341902637,Nathanborough,16549,2022,Toyota,Tundra,excellent,gas,30014,clean,white
+940,7344256650,Lake Jonshire,39209,2020,BMW,X5,excellent,gas,119467,clean,black
+941,7217179664,South Toddborough,30817,2022,Chevrolet,Sonic,excellent,gas,33261,clean,green
+942,7291056121,New Brooke,24955,2023,Honda,CRV,fair,gas,174053,clean,red
+943,7358462466,New Tami,37591,2018,BMW,X1,like new,gas,64734,clean,white
+944,7201186735,Angelatown,35049,2022,BMW,330i,like new,gas,39633,clean,blue
+945,7344205973,Port Heather,29632,2022,Ford,F150,fair,gas,110926,clean,black
+946,7255408596,New Matthew,26762,2023,Cadillac,CT6,good,gas,158749,clean,blue
+947,7223696978,Nicoleborough,24672,2020,BMW,X3,excellent,gas,20524,clean,red
+948,7238087231,North Dylan,30780,2021,Audi,A3,like new,gas,64931,clean,white
+949,7250992445,Pamelaburgh,29670,2021,BMW,X3,excellent,gas,37827,clean,black
+950,7249458180,Anitastad,17646,2023,Cadillac,CT6,excellent,gas,102860,clean,black
+951,7296018730,South Jessicachester,32680,2023,Chevrolet,Sonic,good,gas,85524,clean,blue
+952,7368957787,Jessicamouth,19987,2022,Toyota,Tundra,fair,gas,153036,clean,blue
+953,7316719623,West Yolandahaven,24291,2020,Toyota,Tundra,fair,gas,142813,clean,red
+954,7329564934,Port Jessica,20822,2020,Ford,Ranger,good,gas,108038,clean,silver
+955,7246437141,Ricehaven,36639,2023,Ford,F250,like new,gas,93740,clean,custom
+956,7313221589,Paceville,35400,2023,BMW,X1,excellent,gas,98133,clean,black
+957,7284366788,Stevensonville,13335,2023,Honda,CRV,fair,gas,15159,clean,black
+958,7288413870,South Lisahaven,37577,2022,Ford,Ranger,excellent,gas,171079,clean,custom
+959,7293977837,South Tommy,17122,2018,BMW,330i,like new,gas,136383,clean,custom
+960,7202978698,Brettland,33404,2018,Honda,CRV,excellent,gas,15370,clean,red
+961,7298424938,North Alex,6079,2023,BMW,X5,excellent,gas,131774,clean,black
+962,7287555767,North Alisha,37403,2022,Ford,F250,fair,gas,170110,clean,blue
+963,7389971420,North Aaron,8987,2021,BMW,X1,fair,gas,121185,clean,black
+964,7238416831,Kylechester,19481,2018,Toyota,Tundra,good,gas,6774,clean,green
+965,7224259239,Davidside,3723,2022,BMW,X3,excellent,gas,125386,clean,custom
+966,7230371783,Port Jacob,13250,2018,BMW,X4,excellent,gas,153174,clean,black
+967,7395966967,Kiaraton,9331,2020,BMW,X5,fair,gas,127389,clean,blue
+968,7240466502,West Natashamouth,39851,2022,BMW,X1,excellent,gas,78778,clean,white
+969,7367407865,Jeffreyfort,37925,2022,Ram,1500,excellent,gas,171606,clean,green
+970,7287805468,Antonioville,8859,2019,Chevrolet,Sonic,excellent,gas,23799,clean,black
+971,7348187696,Jenniferland,27849,2019,Cadillac,CT6,excellent,gas,73643,clean,silver
+972,7235314589,Lake Zacharymouth,15660,2022,Chevrolet,Sonic,fair,gas,80133,clean,green
+973,7396418526,Lauraville,22334,2021,Chevrolet,Sonic,excellent,gas,127781,clean,green
+974,7229905662,Port Justin,34522,2018,BMW,330i,fair,gas,13116,clean,green
+975,7398817481,Port Danielle,23492,2019,Genesis,G70,like new,gas,19312,clean,silver
+976,7385055643,Tinatown,21491,2020,BMW,X5,good,gas,170403,clean,white
+977,7203015717,North Alicia,37227,2018,Ford,F250,excellent,gas,155976,clean,silver
+978,7216339213,Phillipsfurt,39902,2020,Ford,F250,fair,gas,113651,clean,blue
+979,7266555461,Washingtonbury,10748,2019,Chevrolet,Sonic,excellent,gas,5690,clean,red
+980,7377967536,Powellville,24094,2019,Toyota,Tundra,excellent,gas,33590,clean,blue
+981,7253988640,Rickeymouth,38047,2018,Audi,A3,excellent,gas,74858,clean,black
+982,7368072137,Josephfurt,20570,2022,BMW,X5,excellent,gas,136047,clean,black
+983,7207397151,South Elizabethview,16267,2019,Ford,Ranger,fair,gas,132488,clean,green
+984,7336439837,South Rodney,29417,2021,Toyota,Tundra,fair,gas,38689,clean,black
+985,7375699033,Evansborough,16573,2021,Audi,A3,used,gas,130445,clean,green
+986,7300715629,North Dorothybury,10853,2021,BMW,330i,like new,gas,106851,clean,custom
+987,7281315931,South Jacobland,36796,2019,Cadillac,CT6,excellent,gas,71734,clean,red
+988,7396170047,South Thomasmouth,31755,2018,Ram,1500,excellent,gas,115474,clean,white
+989,7301816687,Lake Andrew,19893,2019,Ford,F150,excellent,gas,149233,clean,black
+990,7216853451,Jerryville,10224,2022,BMW,330i,excellent,gas,111314,clean,white
+991,7336325126,Taylortown,14775,2020,Cadillac,CT6,excellent,gas,173280,clean,black
+992,7219169202,Lake Matthewborough,19252,2022,Ram,1500,excellent,gas,33013,clean,red
+993,7244891687,Michaelside,6837,2018,BMW,X4,excellent,gas,168809,clean,blue
+994,7225853123,Brittanyburgh,30244,2018,Ford,F150,used,gas,163198,clean,red
+995,7344950593,Juanberg,10163,2021,Cadillac,CT6,excellent,gas,153363,clean,green
+996,7297980889,East Billyshire,36435,2020,Audi,A3,excellent,gas,93065,clean,red
+997,7230641101,East Rachel,37714,2022,BMW,X3,like new,gas,18293,clean,custom
+998,7222927933,North Joseph,33573,2020,Audi,A3,fair,gas,159898,clean,red
+999,7227021699,Joannaside,25783,2018,Genesis,G70,like new,gas,20817,clean,custom
+1000,7359930561,South Matthew,16211,2021,Ford,F150,good,gas,76274,clean,white
+1001,7316920051,Jeremymouth,35010,2021,Ford,F250,excellent,gas,135708,clean,green
+1002,7270967683,West Jasonmouth,31007,2020,Ram,1500,good,gas,166137,clean,black
+1003,7317402463,Mayerton,11964,2020,Chevrolet,Sonic,used,gas,154631,clean,blue
+1004,7361951086,Port Kristintown,38653,2019,BMW,X5,good,gas,101584,clean,silver
+1005,7330459207,North Alexanderchester,16810,2023,BMW,X1,excellent,gas,15562,clean,custom
+1006,7370381692,Matthewborough,29577,2023,BMW,X5,good,gas,112348,clean,custom
+1007,7385787786,North Jenniferville,27388,2023,Ford,F250,excellent,gas,98505,clean,black
+1008,7374545198,Donnaberg,22189,2023,Ford,F250,excellent,gas,120082,clean,white
+1009,7263132419,New Diane,18911,2022,Genesis,G70,excellent,gas,112628,clean,green
+1010,7243591228,Stephensonchester,21108,2018,Honda,CRV,used,gas,90041,clean,custom
+1011,7296805133,Gonzalezhaven,31607,2020,BMW,X5,excellent,gas,162304,clean,red
+1012,7391060968,New David,23465,2020,Ford,Ranger,fair,gas,99756,clean,red
+1013,7395368975,South Jeffreyside,12613,2020,BMW,330i,excellent,gas,51506,clean,silver
+1014,7371755544,North Mirandaton,23223,2022,BMW,X1,excellent,gas,17863,clean,red
+1015,7316234447,New Angelaton,4354,2022,Ram,1500,good,gas,170598,clean,custom
+1016,7203476868,Robinsonland,36298,2018,Cadillac,CT6,excellent,gas,120243,clean,white
+1017,7351436548,East Christopherhaven,26719,2018,Genesis,G70,used,gas,122326,clean,white
+1018,7207963411,Jessicaport,5311,2018,Chevrolet,Sonic,excellent,gas,137060,clean,blue
+1019,7340538669,Port Wyatt,30170,2023,Ram,1500,excellent,gas,89798,clean,black
+1020,7288710343,New Chelseyhaven,17898,2018,BMW,330i,used,gas,119267,clean,black
+1021,7281833802,Danielfort,28073,2019,Cadillac,CT6,fair,gas,160939,clean,white
+1022,7201617921,Floresmouth,26902,2021,Audi,A3,used,gas,27314,clean,custom
+1023,7309292927,East Sarahaven,16090,2022,Ford,F250,excellent,gas,132262,clean,black
+1024,7303010896,Dunnburgh,14036,2020,Cadillac,CT6,excellent,gas,86253,clean,red
+1025,7263448454,Johnsonside,28385,2018,Honda,CRV,like new,gas,84359,clean,blue
+1026,7331746054,East Paul,8581,2023,Chevrolet,Sonic,good,gas,154648,clean,blue
+1027,7249482176,Olsonmouth,24596,2019,Ford,Ranger,used,gas,140455,clean,black
+1028,7239596334,South Jeffrey,23406,2020,BMW,X3,fair,gas,44897,clean,red
+1029,7215348333,Michaelview,8140,2021,Honda,CRV,used,gas,34263,clean,green
+1030,7357558303,Port Sherryview,10712,2022,Ram,1500,excellent,gas,70308,clean,custom
+1031,7312926923,Lake Jonathan,7572,2023,BMW,X1,excellent,gas,9889,clean,black
+1032,7367631950,Port Norma,14988,2023,Ford,Ranger,excellent,gas,111937,clean,custom
+1033,7297736857,South Kristen,3165,2022,Ford,Ranger,fair,gas,171250,clean,green
+1034,7399849778,Coffeymouth,18673,2021,Nissan,Maxima,good,gas,84646,clean,red
+1035,7341975358,Port Lindamouth,3818,2023,BMW,X5,fair,gas,151644,clean,red
+1036,7367428947,New Reneeberg,37162,2019,Nissan,Maxima,fair,gas,162854,clean,blue
+1037,7278745937,South Lindsaytown,4917,2022,Ram,1500,excellent,gas,28551,clean,blue
+1038,7352440215,Mahoneymouth,34371,2020,BMW,X3,used,gas,78427,clean,white
+1039,7335790187,Jamesstad,19070,2019,Ford,F150,fair,gas,36883,clean,silver
+1040,7229590358,Sarahview,10146,2023,Genesis,G70,excellent,gas,172053,clean,black
+1041,7362086508,West Ericshire,26028,2020,Ram,1500,excellent,gas,92089,clean,white
+1042,7327214306,North Bradton,18617,2022,Ram,1500,excellent,gas,135154,clean,silver
+1043,7339308726,Lake Stephanie,11301,2022,BMW,X4,excellent,gas,72858,clean,custom
+1044,7290644909,West Christopher,19907,2023,BMW,X5,good,gas,162498,clean,silver
+1045,7321438826,East Brian,39020,2020,Ram,1500,excellent,gas,78305,clean,white
+1046,7234661820,Michaelstad,14823,2021,Genesis,G70,excellent,gas,47659,clean,red
+1047,7376118560,North Cynthiahaven,20321,2020,Ford,Ranger,excellent,gas,27778,clean,blue
+1048,7280493120,Valerieberg,6587,2020,Ford,F250,excellent,gas,68228,clean,black
+1049,7302563776,Kyliemouth,37017,2021,BMW,X1,like new,gas,170216,clean,blue
+1050,7340125705,Anthonybury,37785,2021,Audi,A3,excellent,gas,14317,clean,green
+1051,7320449975,New Samanthashire,9965,2018,Toyota,Tundra,excellent,gas,115709,clean,silver
+1052,7267999111,East Amberstad,20170,2019,Honda,CRV,good,gas,39190,clean,silver
+1053,7203974058,West William,6582,2023,Cadillac,CT6,used,gas,129828,clean,custom
+1054,7359495607,East Sabrinastad,36163,2022,BMW,X1,excellent,gas,157685,clean,blue
+1055,7392614008,Phamport,33471,2018,Audi,A3,like new,gas,55735,clean,custom
+1056,7363171285,Kingtown,24579,2021,Audi,A3,good,gas,65130,clean,white
+1057,7289220004,North Christopherberg,33398,2019,Honda,CRV,excellent,gas,118106,clean,blue
+1058,7362897177,Christineside,7764,2018,Toyota,Tundra,like new,gas,113600,clean,black
+1059,7357191216,Kevinmouth,8478,2019,Cadillac,CT6,like new,gas,55545,clean,black
+1060,7213419481,Erikshire,21544,2021,BMW,X3,excellent,gas,114064,clean,silver
+1061,7387254772,Jordanshire,9971,2018,BMW,X3,like new,gas,95763,clean,silver
+1062,7245388101,South Kristie,22502,2019,Cadillac,CT6,good,gas,167740,clean,black
+1063,7230410269,New Jason,38303,2022,Ford,F150,excellent,gas,150315,clean,blue
+1064,7268968491,Port Cassandramouth,27756,2023,Ford,F150,used,gas,142701,clean,red
+1065,7384587997,South Valerie,29929,2021,Ford,F250,excellent,gas,124532,clean,red
+1066,7374445199,Lake Robert,23604,2020,Genesis,G70,fair,gas,76001,clean,white
+1067,7287098577,Williamsbury,29507,2021,Genesis,G70,excellent,gas,97450,clean,red
+1068,7371725596,Nicholaschester,32729,2023,Genesis,G70,excellent,gas,20846,clean,red
+1069,7351289208,Jennyfort,12672,2021,Honda,CRV,excellent,gas,43323,clean,custom
+1070,7327698007,Kellyland,33779,2022,Audi,A3,used,gas,156105,clean,white
+1071,7251952518,North Janetville,26994,2018,Genesis,G70,fair,gas,149590,clean,silver
+1072,7300023142,Ricardotown,5297,2018,Audi,A3,fair,gas,93680,clean,blue
+1073,7325776070,Frederickmouth,16782,2021,BMW,X1,excellent,gas,108815,clean,black
+1074,7325937996,South Michael,6470,2021,Nissan,Maxima,used,gas,118979,clean,white
+1075,7214904492,New Matthewchester,13515,2021,Ford,F150,excellent,gas,67293,clean,black
+1076,7335032261,Jamesberg,27231,2021,Ford,Ranger,used,gas,80571,clean,silver
+1077,7246017072,New Denisechester,33313,2019,BMW,330i,excellent,gas,134343,clean,custom
+1078,7252577721,Saraville,13223,2018,BMW,X5,excellent,gas,125319,clean,blue
+1079,7323775274,Thomasland,38602,2021,Chevrolet,Sonic,fair,gas,69640,clean,black
+1080,7322022798,South Sierrafurt,6130,2019,Toyota,Tundra,used,gas,48895,clean,white
+1081,7286038860,Susanview,21918,2019,Ford,F150,fair,gas,23372,clean,green
+1082,7328703473,Farmertown,18813,2019,Genesis,G70,excellent,gas,33499,clean,green
+1083,7270864129,Lake Rodneyfurt,25000,2019,Cadillac,CT6,fair,gas,135343,clean,red
+1084,7371261260,Port Stacy,21339,2019,Cadillac,CT6,fair,gas,37666,clean,blue
+1085,7355775521,West Michelleland,6435,2020,Genesis,G70,fair,gas,87723,clean,green
+1086,7312719489,South Laura,23772,2023,BMW,X5,excellent,gas,168763,clean,silver
+1087,7371287921,New Louisport,21417,2019,Audi,A3,excellent,gas,158815,clean,custom
+1088,7287604488,Johnsonland,18134,2023,Cadillac,CT6,excellent,gas,71308,clean,silver
+1089,7379199988,Lake Kellymouth,11096,2022,Ram,1500,excellent,gas,123095,clean,white
+1090,7376119080,Marshallland,32087,2023,Nissan,Maxima,excellent,gas,74665,clean,black
+1091,7235645041,Flemingmouth,15169,2022,BMW,X5,like new,gas,22797,clean,black
+1092,7399476916,Kristinemouth,7942,2023,Ford,F150,excellent,gas,48780,clean,silver
+1093,7288863546,South Dianeland,5416,2019,BMW,X3,excellent,gas,11942,clean,blue
+1094,7298905973,Underwoodview,26396,2018,BMW,330i,excellent,gas,6836,clean,red
+1095,7370103951,Jasonside,32078,2020,Ford,F250,good,gas,43513,clean,red
+1096,7229777382,Mollytown,37221,2021,BMW,X4,excellent,gas,136074,clean,red
+1097,7399237949,South Julie,25677,2019,Ford,Ranger,fair,gas,99624,clean,red
+1098,7301058969,Brianshire,22688,2022,Ram,1500,fair,gas,47056,clean,silver
+1099,7242868185,North Todd,6068,2019,Cadillac,CT6,excellent,gas,61530,clean,blue
+1100,7282040920,Lake John,16852,2018,Genesis,G70,excellent,gas,130678,clean,white
+1101,7322999965,Michaelchester,35518,2021,Cadillac,CT6,excellent,gas,89950,clean,blue
+1102,7373814067,Port Robert,5329,2018,Toyota,Tundra,excellent,gas,38467,clean,custom
+1103,7236629965,South April,11682,2021,Genesis,G70,excellent,gas,159972,clean,black
+1104,7345062499,West Carriemouth,21258,2018,Ford,Ranger,good,gas,82245,clean,blue
+1105,7340961400,South Frankfurt,8220,2020,BMW,330i,like new,gas,34255,clean,red
+1106,7361628756,East Brianburgh,17671,2022,Ford,Ranger,used,gas,77898,clean,white
+1107,7359898819,West Courtneyside,20427,2020,Chevrolet,Sonic,excellent,gas,31693,clean,green
+1108,7271827625,Lake Scott,14232,2021,Toyota,Tundra,excellent,gas,104873,clean,black
+1109,7323651850,Lake Carrie,6483,2018,Genesis,G70,excellent,gas,92748,clean,black
+1110,7255356190,South Jillside,33988,2018,Cadillac,CT6,fair,gas,108587,clean,green
+1111,7355788008,South Sarah,21152,2019,Ford,Ranger,excellent,gas,83741,clean,black
+1112,7253551820,East Danielleberg,16966,2018,Ram,1500,excellent,gas,46634,clean,green
+1113,7342434604,Johnsonborough,15539,2022,BMW,X3,excellent,gas,72068,clean,white
+1114,7200658991,Liuberg,15347,2021,Ford,Ranger,used,gas,138182,clean,black
+1115,7390691181,Fostermouth,32559,2020,Chevrolet,Sonic,excellent,gas,39617,clean,silver
+1116,7328061520,South Davidhaven,11687,2023,BMW,X1,excellent,gas,40823,clean,custom
+1117,7398146453,Jacobfurt,25043,2018,Ram,1500,fair,gas,46361,clean,silver
+1118,7281245533,Port Jessica,13028,2019,BMW,330i,excellent,gas,97667,clean,blue
+1119,7304237228,Leechester,7676,2020,Cadillac,CT6,like new,gas,165447,clean,blue
+1120,7324885234,New Raven,28351,2022,BMW,X3,used,gas,91546,clean,green
+1121,7320099325,Nixonstad,14448,2020,Nissan,Maxima,excellent,gas,13750,clean,silver
+1122,7327817544,Jacksonshire,18048,2023,BMW,X5,excellent,gas,97829,clean,green
+1123,7302754486,East Mario,33377,2021,Ford,F250,fair,gas,39288,clean,green
+1124,7276634163,New Courtneymouth,38835,2019,BMW,X4,excellent,gas,166373,clean,green
+1125,7355863122,North Melanie,19448,2018,Ford,F250,good,gas,152784,clean,silver
+1126,7306273105,Port Paulchester,17718,2021,Ford,Ranger,good,gas,6693,clean,black
+1127,7289807780,Brownfurt,25787,2020,Ford,Ranger,excellent,gas,152324,clean,white
+1128,7216198337,South Virginia,38000,2021,Honda,CRV,used,gas,70107,clean,black
+1129,7217691187,Smithchester,28112,2021,BMW,X3,excellent,gas,143423,clean,black
+1130,7333452423,North Ashley,8278,2020,Ford,F250,excellent,gas,150059,clean,red
+1131,7396067012,Lake Morgan,24668,2018,Ford,F250,excellent,gas,106097,clean,black
+1132,7318395742,Reynoldsland,21225,2020,Ram,1500,excellent,gas,8700,clean,green
+1133,7250489845,South Beth,32026,2022,Honda,CRV,used,gas,59501,clean,silver
+1134,7277401356,South Donnamouth,29304,2023,BMW,X4,fair,gas,141221,clean,black
+1135,7358675042,Jefferyville,25475,2020,BMW,X4,excellent,gas,90500,clean,custom
+1136,7365859327,Goodmanview,14031,2021,BMW,330i,used,gas,172802,clean,custom
+1137,7278280322,Jonesberg,3608,2022,Ford,F250,excellent,gas,171537,clean,white
+1138,7348435769,South Michellemouth,30082,2023,Chevrolet,Sonic,good,gas,123470,clean,white
+1139,7272020358,Port Michael,31410,2022,Chevrolet,Sonic,good,gas,130218,clean,black
+1140,7379931017,East Emilyshire,3713,2020,Ram,1500,excellent,gas,149868,clean,green
+1141,7262619989,Michaelfurt,34788,2022,Ford,Ranger,excellent,gas,49924,clean,green
+1142,7301154675,Carlosbury,12437,2020,Chevrolet,Sonic,excellent,gas,170994,clean,white
+1143,7287500088,East Amber,20441,2022,Ford,F250,excellent,gas,121719,clean,silver
+1144,7245228170,Toddfurt,8341,2022,Nissan,Maxima,excellent,gas,34151,clean,custom
+1145,7377918485,Port Sheila,31996,2019,BMW,330i,excellent,gas,141177,clean,black
+1146,7238953540,Lake Markburgh,13332,2021,BMW,X1,good,gas,121761,clean,red
+1147,7222272675,Michaelchester,23336,2021,BMW,330i,excellent,gas,10229,clean,blue
+1148,7258034595,Rossport,35214,2019,Ford,F150,fair,gas,98180,clean,black
+1149,7371129201,Lake Michael,3233,2021,Toyota,Tundra,excellent,gas,174610,clean,custom
+1150,7371741103,South Alexisborough,22817,2021,Audi,A3,excellent,gas,29563,clean,silver
+1151,7280273220,South Tylerfort,6950,2023,Toyota,Tundra,fair,gas,5427,clean,blue
+1152,7231255381,Rickyport,9466,2021,Genesis,G70,excellent,gas,43557,clean,white
+1153,7293984583,Ericton,29347,2021,Toyota,Tundra,excellent,gas,62158,clean,red
+1154,7344520552,South Davidstad,21779,2021,Toyota,Tundra,excellent,gas,7985,clean,green
+1155,7257043006,Micheleborough,34792,2019,Toyota,Tundra,excellent,gas,12524,clean,black
+1156,7336651053,North Elizabethmouth,17874,2019,Ford,F250,excellent,gas,75377,clean,white
+1157,7261615928,Port Ashley,14363,2023,Cadillac,CT6,excellent,gas,134690,clean,silver
+1158,7397511508,Fosterton,21872,2018,BMW,X3,like new,gas,95789,clean,custom
+1159,7382264982,Hawkinsstad,34336,2018,Honda,CRV,excellent,gas,57324,clean,silver
+1160,7246594591,West Melindatown,8263,2020,Audi,A3,excellent,gas,78726,clean,green
+1161,7302099712,Douglasside,30604,2020,Chevrolet,Sonic,used,gas,121924,clean,green
+1162,7355726182,Danielton,20123,2019,Genesis,G70,excellent,gas,129442,clean,custom
+1163,7267017812,Walkerstad,21880,2020,BMW,X3,excellent,gas,96116,clean,silver
+1164,7293382418,Valerieland,4104,2022,BMW,330i,like new,gas,113531,clean,red
+1165,7243431316,Perezhaven,6715,2020,Chevrolet,Sonic,excellent,gas,102682,clean,white
+1166,7205623484,Littlefurt,22525,2020,Genesis,G70,good,gas,83300,clean,red
+1167,7352079305,East Alan,10840,2020,Ford,Ranger,fair,gas,115755,clean,green
+1168,7221431643,North Troy,9120,2020,BMW,X4,excellent,gas,70822,clean,black
+1169,7222510722,Yoderview,15910,2020,BMW,330i,fair,gas,99761,clean,red
+1170,7353776959,Gonzalezfurt,7724,2018,Ford,F250,fair,gas,80600,clean,silver
+1171,7231007912,Lake John,22935,2021,BMW,X4,excellent,gas,33957,clean,custom
+1172,7339220339,Danielchester,17842,2018,Ford,F150,like new,gas,6459,clean,blue
+1173,7308538960,New Marissa,17952,2019,Honda,CRV,used,gas,32570,clean,green
+1174,7258219398,Hoovermouth,25615,2020,Ram,1500,fair,gas,104467,clean,blue
+1175,7349675535,Kennethhaven,39462,2023,Nissan,Maxima,fair,gas,102215,clean,red
+1176,7221484208,Lake Jennifer,9470,2022,BMW,X1,good,gas,30982,clean,black
+1177,7382207479,Lake Leetown,38989,2018,Chevrolet,Sonic,like new,gas,37527,clean,silver
+1178,7220098310,New Teresa,26634,2019,Ram,1500,fair,gas,54338,clean,red
+1179,7305028837,Grossside,10452,2022,Cadillac,CT6,fair,gas,39798,clean,silver
+1180,7309569630,East Daniel,25831,2020,Cadillac,CT6,like new,gas,117194,clean,green
+1181,7298392985,Carlsonview,29040,2021,BMW,X1,excellent,gas,84879,clean,blue
+1182,7392166512,Blakeview,13396,2022,Ford,Ranger,excellent,gas,121809,clean,black
+1183,7317570389,West Elizabeth,13565,2023,BMW,X4,excellent,gas,63143,clean,silver
+1184,7202319376,Reneeburgh,25945,2020,Toyota,Tundra,fair,gas,139647,clean,blue
+1185,7339774875,Robertchester,11580,2018,Chevrolet,Sonic,excellent,gas,107246,clean,black
+1186,7388395600,South Steven,13212,2022,Cadillac,CT6,excellent,gas,77650,clean,white
+1187,7319548747,Angelaton,21808,2023,Honda,CRV,like new,gas,99553,clean,custom
+1188,7308118274,New Stephenborough,27874,2020,BMW,X4,excellent,gas,37410,clean,black
+1189,7279227413,Piercechester,37645,2021,Nissan,Maxima,excellent,gas,138866,clean,silver
+1190,7386672808,Port Tiffany,37221,2021,Cadillac,CT6,excellent,gas,116648,clean,silver
+1191,7269942565,Ronaldborough,35219,2023,BMW,X3,excellent,gas,125434,clean,silver
+1192,7246839030,Port Andrew,34421,2022,BMW,X4,excellent,gas,29658,clean,silver
+1193,7382993173,New Haley,31206,2021,Cadillac,CT6,good,gas,22272,clean,black
+1194,7256283004,Millerport,3079,2018,BMW,X3,fair,gas,141838,clean,blue
+1195,7299082103,West Johntown,11332,2023,Honda,CRV,excellent,gas,46220,clean,custom
+1196,7360740899,Lake Dustinshire,4079,2021,BMW,X3,like new,gas,137114,clean,white
+1197,7236601411,North Ericaview,22422,2023,BMW,X1,good,gas,66925,clean,white
+1198,7281555454,Jenniferburgh,36091,2019,Nissan,Maxima,good,gas,40231,clean,green
+1199,7397870360,New Kristenchester,12268,2022,Nissan,Maxima,used,gas,50476,clean,blue
+1200,7316382834,Roystad,20188,2023,Ford,Ranger,fair,gas,60393,clean,black
+1201,7224657148,Pricefort,39466,2018,Cadillac,CT6,fair,gas,29162,clean,black
+1202,7301350114,Stephenburgh,22750,2019,Ford,Ranger,excellent,gas,42505,clean,silver
+1203,7277439179,Romanland,38597,2023,BMW,X4,good,gas,169876,clean,black
+1204,7295107455,Port Meganfort,29728,2023,BMW,X5,fair,gas,124784,clean,green
+1205,7367127349,South Stephen,37059,2021,BMW,X1,excellent,gas,118469,clean,blue
+1206,7388284634,Lake Alexanderberg,12674,2018,Toyota,Tundra,excellent,gas,32130,clean,silver
+1207,7292953512,Billyfurt,7434,2018,BMW,330i,excellent,gas,119030,clean,black
+1208,7225852024,Martinezstad,15354,2020,Ram,1500,like new,gas,51208,clean,red
+1209,7297764821,South Crystal,27796,2019,BMW,X3,excellent,gas,93840,clean,black
+1210,7397124598,Lake Olivia,39971,2018,Audi,A3,like new,gas,82427,clean,blue
+1211,7284239774,Eatonport,39269,2023,Cadillac,CT6,excellent,gas,123253,clean,silver
+1212,7315182768,Stephenton,30169,2019,Ford,F250,good,gas,131819,clean,blue
+1213,7290572288,Sandersstad,36793,2021,Audi,A3,excellent,gas,61047,clean,red
+1214,7281864804,Kimberg,13053,2019,Ford,F250,excellent,gas,65675,clean,green
+1215,7312198079,Stevehaven,10744,2018,BMW,X4,excellent,gas,15449,clean,white
+1216,7266433016,Edwardsfort,36402,2021,Nissan,Maxima,good,gas,13677,clean,black
+1217,7342372113,Stevensville,12284,2019,BMW,X3,fair,gas,75021,clean,green
+1218,7372429352,West Michelleville,28692,2018,Genesis,G70,excellent,gas,143215,clean,red
+1219,7355272025,Port Donald,36323,2018,BMW,X1,good,gas,25337,clean,white
+1220,7315790432,Marthaport,7550,2020,BMW,X5,good,gas,25989,clean,silver
+1221,7383623820,Nashborough,28898,2020,BMW,X1,like new,gas,124840,clean,custom
+1222,7298573914,West Tricia,30346,2018,BMW,330i,excellent,gas,160050,clean,custom
+1223,7260092401,South John,11787,2022,BMW,X3,good,gas,157756,clean,blue
+1224,7201473837,Freemanport,32775,2018,Ford,Ranger,good,gas,34478,clean,green
+1225,7304847172,Schmidtview,22989,2018,BMW,X1,used,gas,79255,clean,blue
+1226,7334635508,Lake Austin,15664,2019,Cadillac,CT6,excellent,gas,94498,clean,custom
+1227,7299911265,Gutierrezmouth,35833,2019,Ford,F250,excellent,gas,138231,clean,blue
+1228,7370346769,Victoriabury,22632,2022,BMW,X4,like new,gas,88069,clean,black
+1229,7307306125,Phyllismouth,36065,2018,Ford,F250,excellent,gas,92508,clean,black
+1230,7334988634,Katherinechester,4923,2018,Audi,A3,like new,gas,12699,clean,silver
+1231,7266770802,South Jennifer,35287,2019,Audi,A3,used,gas,119512,clean,red
+1232,7355002074,Amandastad,25749,2022,BMW,X1,fair,gas,133796,clean,white
+1233,7351700215,Lake Stephenberg,26431,2019,BMW,X3,like new,gas,138959,clean,green
+1234,7396604254,South Sarah,5707,2021,Nissan,Maxima,excellent,gas,24961,clean,blue
+1235,7201083728,Gonzalezton,19944,2020,Chevrolet,Sonic,good,gas,156306,clean,black
+1236,7305949952,Riveramouth,10326,2019,BMW,330i,good,gas,151929,clean,red
+1237,7206795643,West Jose,23293,2020,Ford,Ranger,excellent,gas,107939,clean,green
+1238,7383521499,Gordonhaven,36612,2021,Ford,F250,used,gas,68662,clean,blue
+1239,7359421297,New Ericamouth,33272,2021,Chevrolet,Sonic,excellent,gas,109543,clean,white
+1240,7268447464,Michaelburgh,9158,2020,BMW,330i,used,gas,38374,clean,blue
+1241,7380440163,Tarashire,14841,2018,Cadillac,CT6,excellent,gas,125971,clean,blue
+1242,7233456017,Gomezland,9126,2022,BMW,X1,excellent,gas,99041,clean,red
+1243,7215337337,Smithport,31185,2020,Toyota,Tundra,excellent,gas,69904,clean,black
+1244,7277372953,Lake Madison,26402,2020,Cadillac,CT6,excellent,gas,101034,clean,red
+1245,7333274043,Glennside,30713,2018,Audi,A3,fair,gas,126870,clean,custom
+1246,7293425633,Rivasside,24658,2020,Chevrolet,Sonic,used,gas,62222,clean,blue
+1247,7260035663,South Stevenmouth,22648,2022,Ford,F250,excellent,gas,111007,clean,silver
+1248,7333002181,Erichaven,7206,2023,BMW,X3,excellent,gas,150480,clean,white
+1249,7390172893,Ramireztown,39112,2021,BMW,X4,fair,gas,157923,clean,custom
+1250,7330502827,North Lawrence,34990,2020,BMW,X4,excellent,gas,156386,clean,white
+1251,7377606979,Port Rachael,23408,2019,Toyota,Tundra,fair,gas,49445,clean,green
+1252,7202942105,Ponceberg,31935,2018,Cadillac,CT6,used,gas,15033,clean,blue
+1253,7240422937,Port Katherine,8678,2022,Chevrolet,Sonic,excellent,gas,22222,clean,white
+1254,7289173967,Melissamouth,28333,2022,BMW,X4,excellent,gas,143445,clean,white
+1255,7346282126,Karenstad,17297,2018,Ford,F150,like new,gas,119240,clean,red
+1256,7395446765,Lake Richardburgh,12463,2020,BMW,330i,excellent,gas,135598,clean,black
+1257,7316284537,Ashleytown,7574,2018,BMW,X1,fair,gas,60295,clean,custom
+1258,7352673613,New Dakotaborough,10209,2019,Ford,F150,good,gas,92773,clean,custom
+1259,7240059138,Morrisbury,34686,2022,Honda,CRV,good,gas,13579,clean,black
+1260,7282078642,Johnbury,36846,2020,Audi,A3,excellent,gas,22250,clean,custom
+1261,7220354308,South Sandraside,6739,2021,Honda,CRV,good,gas,81377,clean,blue
+1262,7251321474,New Meganberg,24281,2022,Ram,1500,like new,gas,110102,clean,custom
+1263,7274286898,Normanshire,7916,2022,BMW,330i,like new,gas,12140,clean,silver
+1264,7240728207,Mirandaside,28393,2019,Audi,A3,good,gas,106604,clean,white
+1265,7390668375,Vangshire,29367,2020,Honda,CRV,like new,gas,102380,clean,red
+1266,7394936322,North Juan,22142,2021,BMW,X4,excellent,gas,138853,clean,red
+1267,7313125463,Fieldsport,37817,2022,BMW,X4,like new,gas,21871,clean,black
+1268,7307378704,Port Colleenside,8846,2021,Chevrolet,Sonic,excellent,gas,117869,clean,green
+1269,7294109451,Lake Devin,22328,2022,Ram,1500,like new,gas,56400,clean,red
+1270,7335016513,New Karen,28683,2018,BMW,X5,fair,gas,116596,clean,silver
+1271,7272077943,Gomezburgh,36475,2018,Ram,1500,like new,gas,129644,clean,white
+1272,7339202981,Watersfort,5647,2020,Nissan,Maxima,fair,gas,122928,clean,custom
+1273,7269137401,Cantuville,9937,2022,Ram,1500,excellent,gas,129396,clean,green
+1274,7346782122,Michaelstad,12990,2022,BMW,X3,excellent,gas,124653,clean,silver
+1275,7370622905,Wallacetown,24990,2023,BMW,X5,excellent,gas,54604,clean,black
+1276,7260050201,Freemanhaven,17245,2020,Nissan,Maxima,excellent,gas,67636,clean,white
+1277,7268141952,Andradeland,8981,2023,Honda,CRV,fair,gas,45689,clean,red
+1278,7216316325,East Stephanieville,24227,2018,BMW,X1,excellent,gas,40423,clean,white
+1279,7368400921,Dodsonstad,33423,2022,BMW,X1,used,gas,126155,clean,silver
+1280,7354619698,Michaelberg,36594,2018,BMW,330i,excellent,gas,14981,clean,blue
+1281,7310905972,Lake Emilyberg,20859,2018,BMW,X3,fair,gas,140155,clean,black
+1282,7285858761,Lake Shannon,5847,2022,Cadillac,CT6,excellent,gas,25941,clean,black
+1283,7229804947,New Jonathan,37666,2018,Ford,F150,good,gas,50419,clean,custom
+1284,7347618977,Port Carol,4836,2020,Genesis,G70,excellent,gas,66767,clean,white
+1285,7332204195,Ernestport,8431,2022,Cadillac,CT6,excellent,gas,33654,clean,red
+1286,7334286787,Arthurburgh,37601,2023,Ford,F150,excellent,gas,98184,clean,red
+1287,7281768258,Laurieburgh,10917,2022,Chevrolet,Sonic,fair,gas,129614,clean,green
+1288,7362720017,Lake Derekville,5678,2018,Toyota,Tundra,excellent,gas,58541,clean,custom
+1289,7237100461,Sandovalstad,4402,2019,BMW,X1,excellent,gas,107049,clean,white
+1290,7236619491,North Gregory,29110,2022,Toyota,Tundra,good,gas,128281,clean,black
+1291,7277192843,Lake Karenside,9357,2020,Chevrolet,Sonic,good,gas,41983,clean,red
+1292,7227865873,Jonesmouth,7624,2020,BMW,X3,excellent,gas,81140,clean,green
+1293,7297502797,Christyborough,18622,2022,BMW,X3,fair,gas,142129,clean,red
+1294,7368026142,North Sandra,7901,2022,Ram,1500,excellent,gas,156718,clean,green
+1295,7253544569,Richardshire,26343,2022,Nissan,Maxima,excellent,gas,142274,clean,red
+1296,7306433468,Lake Duanefurt,39468,2023,Cadillac,CT6,fair,gas,81610,clean,silver
+1297,7390373233,East Garrettfurt,7458,2019,Cadillac,CT6,fair,gas,64379,clean,custom
+1298,7313155125,South Jennifermouth,5785,2020,Genesis,G70,excellent,gas,115953,clean,red
+1299,7285925794,Yorkside,39506,2020,Genesis,G70,good,gas,153883,clean,silver
+1300,7386894646,Kevinton,38504,2020,Ford,Ranger,excellent,gas,14609,clean,white
+1301,7357085610,Kevinfurt,35286,2018,Audi,A3,excellent,gas,119249,clean,green
+1302,7268657315,North Curtishaven,7262,2023,BMW,X3,fair,gas,62286,clean,blue
+1303,7356166833,South Davidland,9015,2020,Cadillac,CT6,fair,gas,107791,clean,black
+1304,7230036128,Lake Amytown,15819,2023,BMW,X4,excellent,gas,45286,clean,green
+1305,7270761648,Taylorside,26994,2019,BMW,X4,excellent,gas,109981,clean,black
+1306,7361900980,Lake Jacquelineborough,8368,2021,Chevrolet,Sonic,excellent,gas,133135,clean,black
+1307,7330495903,Rachelville,21162,2021,Honda,CRV,fair,gas,125075,clean,custom
+1308,7211777604,West Katherineport,38395,2023,Cadillac,CT6,used,gas,87398,clean,white
+1309,7397424577,Jasonbury,5261,2021,Genesis,G70,excellent,gas,59362,clean,silver
+1310,7332437504,Edwardsside,21731,2023,BMW,X3,excellent,gas,110955,clean,silver
+1311,7363152427,North James,19434,2021,Ford,F150,excellent,gas,143979,clean,red
+1312,7286176941,Port Heatherhaven,35990,2022,Cadillac,CT6,excellent,gas,121006,clean,blue
+1313,7367479126,Wilkersonchester,11852,2023,Ford,F150,fair,gas,158312,clean,black
+1314,7382881294,West Amber,15850,2019,BMW,X4,excellent,gas,129940,clean,black
+1315,7322478500,Gordonmouth,21065,2023,BMW,X1,like new,gas,151992,clean,blue
+1316,7221139143,Lake Melissaside,6880,2021,BMW,X1,excellent,gas,149961,clean,black
+1317,7286105431,North Kelly,9913,2023,Ford,Ranger,used,gas,97813,clean,custom
+1318,7228481923,Davisport,39837,2021,Honda,CRV,excellent,gas,167349,clean,white
+1319,7235814232,Jenniferland,32685,2023,Ram,1500,excellent,gas,13253,clean,red
+1320,7363346259,Justinfurt,3337,2020,Audi,A3,excellent,gas,93803,clean,blue
+1321,7214202981,Morrisbury,38973,2018,Toyota,Tundra,excellent,gas,36899,clean,blue
+1322,7291271167,Reedton,30255,2020,Toyota,Tundra,excellent,gas,95562,clean,green
+1323,7397547261,Arielshire,32934,2021,Ram,1500,excellent,gas,119334,clean,green
+1324,7210865202,North Natalie,16817,2019,Ford,F250,fair,gas,75727,clean,silver
+1325,7200146926,Milesfort,11027,2022,BMW,X3,excellent,gas,80101,clean,green
+1326,7369510916,Port Kimberly,30528,2023,Chevrolet,Sonic,excellent,gas,149656,clean,silver
+1327,7242028224,Hammondview,10868,2021,Nissan,Maxima,fair,gas,91288,clean,blue
+1328,7370911531,South Catherine,35170,2021,Ford,F250,excellent,gas,95429,clean,custom
+1329,7307511528,East Andrew,7776,2019,Chevrolet,Sonic,like new,gas,22958,clean,red
+1330,7287463506,West Bradley,3990,2020,Cadillac,CT6,like new,gas,106889,clean,custom
+1331,7244607420,Jeremiahview,7352,2018,BMW,X3,excellent,gas,82770,clean,green
+1332,7367621083,Lake Kellychester,4341,2020,Toyota,Tundra,fair,gas,30698,clean,silver
+1333,7343863392,South Williamtown,18155,2023,Nissan,Maxima,excellent,gas,25286,clean,silver
+1334,7226204688,South Austin,29104,2019,Ford,Ranger,fair,gas,46009,clean,black
+1335,7291195039,Port Caroltown,31593,2022,Chevrolet,Sonic,fair,gas,143229,clean,black
+1336,7224950844,Bradleymouth,30065,2021,BMW,X4,excellent,gas,34213,clean,white
+1337,7285122287,Adamsshire,7792,2022,Ram,1500,like new,gas,111386,clean,black
+1338,7244249245,Jessicamouth,21075,2019,Ford,Ranger,excellent,gas,23564,clean,white
+1339,7365398652,Johnsonburgh,37978,2022,BMW,X4,used,gas,172242,clean,black
+1340,7227052749,Fletcherburgh,37400,2023,BMW,X1,fair,gas,108492,clean,white
+1341,7338598806,Davidside,7428,2018,Genesis,G70,excellent,gas,160077,clean,black
+1342,7207926908,West Dale,27331,2018,Genesis,G70,fair,gas,33713,clean,blue
+1343,7225532902,Loriberg,24433,2018,BMW,X5,like new,gas,151155,clean,red
+1344,7275047230,Laurenburgh,34205,2022,Honda,CRV,excellent,gas,90501,clean,silver
+1345,7337236281,Jamesberg,24775,2019,Nissan,Maxima,excellent,gas,89459,clean,black
+1346,7247158993,Taylormouth,36458,2023,Ram,1500,excellent,gas,29017,clean,white
+1347,7346205727,New Darren,37965,2018,Genesis,G70,fair,gas,174598,clean,silver
+1348,7259022184,Angelaview,11970,2019,BMW,X5,excellent,gas,167359,clean,silver
+1349,7290368002,Port Ronaldbury,30982,2023,BMW,X1,excellent,gas,49859,clean,custom
+1350,7392413560,New Katherinechester,3368,2023,Nissan,Maxima,excellent,gas,68691,clean,white
+1351,7281185141,Lake Tina,25550,2019,Ram,1500,excellent,gas,128262,clean,silver
+1352,7388062355,North Josephland,5779,2018,Ford,Ranger,excellent,gas,86508,clean,white
+1353,7260357804,New Theresafort,9520,2019,Nissan,Maxima,fair,gas,143822,clean,red
+1354,7269145382,Jonesmouth,30145,2022,BMW,X4,like new,gas,172825,clean,silver
+1355,7235641803,New Kristen,27091,2019,Ford,F150,excellent,gas,157760,clean,red
+1356,7249197848,Lake Jasminehaven,32164,2018,Ford,F250,fair,gas,11350,clean,silver
+1357,7368560056,Williamshaven,25368,2020,Toyota,Tundra,good,gas,170693,clean,silver
+1358,7291290877,Geraldview,17198,2019,Audi,A3,excellent,gas,93811,clean,silver
+1359,7257828171,Port Evelyn,13935,2019,BMW,330i,excellent,gas,29465,clean,black
+1360,7264396965,Port Carla,31873,2019,Ford,Ranger,good,gas,144398,clean,black
+1361,7376179567,Maldonadoborough,22707,2019,Genesis,G70,excellent,gas,80027,clean,black
+1362,7288283414,Patriciafurt,14739,2023,Nissan,Maxima,good,gas,151652,clean,red
+1363,7327904136,Lake Gregory,4205,2023,BMW,X1,fair,gas,115838,clean,red
+1364,7342578585,Kaylahaven,36789,2023,BMW,330i,good,gas,104437,clean,black
+1365,7307810084,Rushfort,8433,2023,BMW,330i,fair,gas,81938,clean,silver
+1366,7253145708,Lake Maryborough,8511,2021,Genesis,G70,excellent,gas,64873,clean,red
+1367,7366237239,South Angelaborough,12894,2018,Ford,Ranger,fair,gas,37395,clean,custom
+1368,7228705196,Charlesview,9128,2020,BMW,X5,fair,gas,93523,clean,white
+1369,7391491758,Johnstonmouth,13347,2018,Chevrolet,Sonic,excellent,gas,110263,clean,red
+1370,7235408305,Lake Kathymouth,5152,2020,Nissan,Maxima,used,gas,59270,clean,white
+1371,7250361236,Port Charlesmouth,23887,2019,Ford,F250,good,gas,19111,clean,white
+1372,7315198307,Lake Rebecca,34035,2019,Genesis,G70,good,gas,37727,clean,black
+1373,7384387164,New Carlos,13999,2018,Ford,F150,fair,gas,109297,clean,custom
+1374,7224295563,Lamborough,32912,2023,BMW,X5,excellent,gas,95322,clean,white
+1375,7268700015,Sandersmouth,15249,2020,Honda,CRV,fair,gas,83112,clean,black
+1376,7344177102,New Jenniferview,25315,2018,BMW,X3,used,gas,131630,clean,black
+1377,7228518203,Port Priscillaport,6702,2022,Toyota,Tundra,good,gas,99263,clean,custom
+1378,7200497895,North Jonathan,22737,2020,Nissan,Maxima,excellent,gas,113198,clean,black
+1379,7385878584,North Kelseyfurt,17620,2022,BMW,X5,good,gas,112989,clean,black
+1380,7372512828,Maryborough,31910,2019,Ford,Ranger,fair,gas,153716,clean,green
+1381,7289281344,New Elijahstad,12593,2019,Ram,1500,fair,gas,48147,clean,custom
+1382,7381434553,Markborough,18474,2022,Honda,CRV,excellent,gas,100359,clean,custom
+1383,7228956990,Port Joseph,8210,2018,Cadillac,CT6,excellent,gas,53666,clean,red
+1384,7383738616,Lake Willieton,22841,2023,BMW,330i,excellent,gas,130183,clean,custom
+1385,7209610777,North Danielfort,39861,2019,BMW,X3,like new,gas,162946,clean,green
+1386,7203504891,Jefferytown,3771,2018,BMW,X3,fair,gas,63321,clean,white
+1387,7366956712,Smithmouth,8737,2018,Audi,A3,used,gas,141144,clean,white
+1388,7307476807,Ianbury,17769,2018,Toyota,Tundra,excellent,gas,99673,clean,white
+1389,7327980837,Port Alexischester,26894,2022,BMW,X4,like new,gas,17827,clean,red
+1390,7340653641,Arnoldton,35563,2019,Toyota,Tundra,excellent,gas,110864,clean,silver
+1391,7274519488,Hallberg,13657,2018,Ford,Ranger,excellent,gas,90125,clean,white
+1392,7212100820,Lake Donaldborough,29859,2023,Genesis,G70,fair,gas,37627,clean,custom
+1393,7309736255,Millerfort,27783,2018,BMW,X5,used,gas,134296,clean,red
+1394,7245028360,Chavezport,19271,2019,Ford,Ranger,excellent,gas,61443,clean,custom
+1395,7278355828,Port Gina,37267,2022,Genesis,G70,good,gas,139521,clean,red
+1396,7369341283,West Andreaport,26225,2022,Cadillac,CT6,fair,gas,42111,clean,black
+1397,7227623860,Martinshire,21065,2020,Ram,1500,excellent,gas,9891,clean,green
+1398,7240954754,New Karla,39124,2023,Ford,F150,excellent,gas,5711,clean,red
+1399,7379461641,Adamstad,10695,2021,Genesis,G70,fair,gas,117593,clean,silver
+1400,7333621150,North Danny,20265,2020,Honda,CRV,excellent,gas,150907,clean,red
+1401,7342280933,Costaburgh,3716,2020,Ford,F150,good,gas,100177,clean,silver
+1402,7253315768,Hicksview,21807,2023,BMW,X4,excellent,gas,103098,clean,custom
+1403,7298559854,East Samuelburgh,38235,2019,BMW,X5,used,gas,160542,clean,black
+1404,7338467159,West Deborahstad,6974,2021,Audi,A3,excellent,gas,67089,clean,silver
+1405,7391317321,New Alyssa,10315,2020,Ford,F250,excellent,gas,135722,clean,custom
+1406,7260812893,West Jacobfurt,23237,2022,Toyota,Tundra,excellent,gas,163722,clean,blue
+1407,7328354303,Patriciashire,11268,2023,Toyota,Tundra,used,gas,125746,clean,red
+1408,7266804035,Port Jeremy,6951,2023,Toyota,Tundra,fair,gas,133814,clean,red
+1409,7287420100,Scottton,7693,2022,Ford,Ranger,excellent,gas,39584,clean,blue
+1410,7399554433,North Erikmouth,39250,2021,Honda,CRV,fair,gas,89824,clean,blue
+1411,7218903300,East James,37733,2022,BMW,X4,excellent,gas,26429,clean,silver
+1412,7329630167,Jessicaborough,9891,2020,BMW,X1,fair,gas,121807,clean,green
+1413,7357404094,Melissamouth,4723,2020,BMW,X4,excellent,gas,11884,clean,green
+1414,7314212529,Lake Lori,13412,2021,BMW,X5,like new,gas,15178,clean,blue
+1415,7306158920,Port Vincent,8229,2023,Genesis,G70,fair,gas,114048,clean,blue
+1416,7303935300,Lake Aaronburgh,8700,2023,BMW,X4,good,gas,21239,clean,blue
+1417,7325931736,Lake Todd,28416,2022,Ford,F250,excellent,gas,68309,clean,black
+1418,7366823996,Port Eduardobury,9930,2021,BMW,X3,excellent,gas,116307,clean,blue
+1419,7345424559,Natalieberg,29359,2021,Cadillac,CT6,like new,gas,40465,clean,green
+1420,7262265326,West Nathanielton,11674,2019,Ford,F250,like new,gas,106173,clean,blue
+1421,7368350679,Brandonbury,31008,2021,BMW,330i,excellent,gas,123703,clean,blue
+1422,7205097531,West Lisa,35353,2020,Toyota,Tundra,excellent,gas,73930,clean,black
+1423,7322526989,South Luis,24776,2019,BMW,X1,used,gas,8180,clean,silver
+1424,7231079953,Port Dylantown,13894,2023,Ford,F250,like new,gas,18446,clean,black
+1425,7266204576,South Joshuaville,27919,2018,Audi,A3,used,gas,27855,clean,white
+1426,7294474205,Port Lawrenceshire,25369,2023,Cadillac,CT6,fair,gas,69972,clean,silver
+1427,7237396480,Mayershire,32437,2021,BMW,X4,fair,gas,100488,clean,silver
+1428,7308099828,Clarktown,30850,2023,Chevrolet,Sonic,fair,gas,107239,clean,custom
+1429,7305918371,South Jason,35959,2022,BMW,X4,fair,gas,98371,clean,white
+1430,7379592245,Melissabury,7886,2019,BMW,X1,good,gas,33181,clean,custom
+1431,7227268797,East Joseph,18647,2020,BMW,330i,fair,gas,13029,clean,green
+1432,7263381792,East Jessicafurt,8569,2018,Genesis,G70,excellent,gas,90024,clean,white
+1433,7319298399,Diazbury,9136,2018,Genesis,G70,used,gas,95410,clean,white
+1434,7208291799,West Dylan,30817,2023,Audi,A3,excellent,gas,26208,clean,silver
+1435,7248461641,New Amandaland,29338,2021,BMW,X5,fair,gas,172087,clean,silver
+1436,7367685173,South Dennis,25987,2020,BMW,X4,excellent,gas,170190,clean,white
+1437,7217684817,West Angelaville,10856,2021,Audi,A3,excellent,gas,68372,clean,green
+1438,7343765338,South Eric,10288,2018,Toyota,Tundra,excellent,gas,74159,clean,silver
+1439,7358840835,Jacquelineland,18075,2020,Chevrolet,Sonic,excellent,gas,160365,clean,red
+1440,7218447057,Port Scotthaven,3219,2018,Ford,F150,like new,gas,134422,clean,silver
+1441,7308782594,Lake Frankstad,35460,2022,Honda,CRV,excellent,gas,41271,clean,red
+1442,7375643404,Lake Jeanette,38263,2019,Toyota,Tundra,excellent,gas,83695,clean,green
+1443,7397117402,Lake Monica,10937,2022,Genesis,G70,excellent,gas,113413,clean,blue
+1444,7221261854,Blakeborough,4497,2019,Chevrolet,Sonic,fair,gas,65154,clean,green
+1445,7386699945,New Alexandershire,25695,2020,Toyota,Tundra,fair,gas,59381,clean,red
+1446,7333583486,Lake Sarah,31707,2019,Honda,CRV,excellent,gas,157053,clean,silver
+1447,7256742769,Brittanymouth,11272,2019,Ram,1500,used,gas,142987,clean,black
+1448,7348509803,South Stevenchester,5491,2023,Audi,A3,excellent,gas,51378,clean,silver
+1449,7279000667,Hannahton,37003,2020,BMW,330i,like new,gas,113373,clean,custom
